@@ -23,7 +23,7 @@ async def handle_archive_command(event):
     
     try:
         me = await client.get_me()
-        my_user_id = me.id if me else None # type: ignore
+        my_user_id = me.id if me else None  # type: ignore
 
         topics = []
         if not topic_id:
@@ -64,8 +64,11 @@ async def handle_help_command(event):
 
 async def main():
     print("🤖 Telegram Bot listener is active. Send /help or /archive to your saved messages or chat...")
-    await client.start()
-    await client.run_until_disconnected()
+    
+    # Uses context manager and silences Pylance stub warning safely
+    async with client:
+        print("Connected! Listening for commands...")
+        await client.run_until_disconnected()  # type: ignore
 
 if __name__ == "__main__":
     try:
