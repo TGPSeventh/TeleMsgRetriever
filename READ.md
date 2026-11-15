@@ -31,28 +31,44 @@ telegram_retriever/
 └── main.py                           # Execution runner
 
 
-Installation & Setup
+---
 
-Clone or navigate to your project directory:
+# Installation & Setup
+
+---
+
+## Clone or navigate to your project directory:
+```text
 cd C:\Users\TGPSe\Projects\telegram_retriever
 
-Install dependencies:
+
+---
+
+## Install dependencies:
+```text
 Make sure you have Telethon installed:
 pip install telethon
 
+---
 
-Configure API Credentials:
+## Configure API Credentials:
+```text
 Open main.py and replace your Telegram api_id and api_hash:
 api_id = 1234567
 api_hash = 'your_api_hash'
 
+---
 
-Usage
+## Usage
+```text
 Run the main synchronization script to automatically scan supergroups, discover topics, download media, and compile your HTML viewers:
 python main.py
 
+---
 
-Core JSON Message Schema
+## JSON Message Schema
+
+```text
 Every message stored in the master archive follows this rigid schema structure:
 
 JSON
