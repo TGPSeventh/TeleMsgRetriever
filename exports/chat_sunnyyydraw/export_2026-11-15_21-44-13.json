@@ -1,0 +1,57 @@
+[
+    {
+        "id": 22285,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "how was it?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:44:11",
+        "reactions": []
+    },
+    {
+        "id": 22284,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yup",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:44:05",
+        "reactions": []
+    },
+    {
+        "id": 22283,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ahh yung nabanggit mo earlier?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:44:01",
+        "reactions": []
+    },
+    {
+        "id": 22282,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "what i felt",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:43:49",
+        "reactions": []
+    },
+    {
+        "id": 22281,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nag usap kami ni jom outside about what happened sa team bonding",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:43:45",
+        "reactions": []
+    }
+]

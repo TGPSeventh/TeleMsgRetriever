@@ -1,0 +1,57 @@
+[
+    {
+        "id": 22293,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "whyyy",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22292,
+        "date": "2026-11-15 13:46:44",
+        "reactions": []
+    },
+    {
+        "id": 22292,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "and shookt me",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:46:35",
+        "reactions": []
+    },
+    {
+        "id": 22291,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "but aside from that how are you feeling na? did it made you feel better?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:46:32",
+        "reactions": []
+    },
+    {
+        "id": 22290,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yup",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22288,
+        "date": "2026-11-15 13:46:32",
+        "reactions": []
+    },
+    {
+        "id": 22289,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yup",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22287,
+        "date": "2026-11-15 13:46:29",
+        "reactions": []
+    }
+]

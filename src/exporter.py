@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime
-from src.fetcher import get_chat_paths
+from src.fetcher import get_chat_paths, get_group_root_path
 
 def load_existing_json(json_filepath):
     if os.path.exists(json_filepath):
@@ -13,9 +13,6 @@ def load_existing_json(json_filepath):
     return []
 
 def normalize_message_schema(msg):
-    """
-    Enforces strict uniform JSON schema keys across all records.
-    """
     return {
         "id": msg.get("id"),
         "sender_id": msg.get("sender_id"),
@@ -61,8 +58,94 @@ def save_exports(data, chat_target, topic_id=None, my_user_id=None):
         json.dump(combined_messages, f, ensure_ascii=False, indent=4)
     print(f"-> Updated master JSON archive: {master_json_path}")
 
-    _generate_html_file(combined_messages, html_path, chat_title=chat_target, my_user_id=my_user_id)
+    display_title = f"{chat_target} (Topic {topic_id})" if topic_id else chat_target
+    _generate_html_file(combined_messages, html_path, chat_title=display_title, my_user_id=my_user_id)
     print(f"-> Generated HTML viewer: {os.path.abspath(html_path)}")
+
+def generate_group_hub_html(chat_target, topics):
+    """
+    Generates a master group-level HTML dashboard (index.html) listing all forum topics inside the group root.
+    """
+    group_folder = get_group_root_path(chat_target)
+    hub_path = os.path.join(group_folder, "index.html")
+    
+    clean_target = str(chat_target).strip().replace('https://t.me/', '').replace('t.me/', '').replace('+', '').lstrip('@')
+    clean_target = clean_target[5:] if clean_target.startswith('chat_') else clean_target
+    
+    topics_html_items = ""
+    for topic in topics:
+        topic_folder_name = f"topic_{topic['id']}"
+        file_prefix = f"chat_{clean_target}_topic_{topic['id']}"
+        viewer_filename = f"{topic_folder_name}/{file_prefix}_viewer.html"
+        
+        topics_html_items += f"""
+        <a href="{viewer_filename}" class="topic-card">
+            <div class="topic-icon">💬</div>
+            <div class="topic-info">
+                <div class="topic-title">{topic['title']}</div>
+                <div class="topic-id">Topic ID: {topic['id']}</div>
+            </div>
+            <div class="arrow">›</div>
+        </a>
+        """
+
+    hub_template = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{chat_target} - Master Archive Hub</title>
+    <style>
+        :root {{
+            --bg-color: #0f1923;
+            --header-bg: #1e2c3a;
+            --card-bg: #1f2c38;
+            --card-hover: #2b3e55;
+            --text-primary: #f5f5f5;
+            --text-secondary: #879ab0;
+            --accent-color: #64b5f6;
+            --border-color: #111b24;
+        }}
+        * {{ box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }}
+        body {{ background-color: #000; color: var(--text-primary); display: flex; justify-content: center; height: 100vh; overflow: hidden; }}
+        .app-container {{ background-color: var(--bg-color); width: 100%; max-width: 480px; height: 100%; display: flex; flex-direction: column; position: relative; box-shadow: 0 0 20px rgba(0,0,0,0.8); }}
+        header {{ background-color: var(--header-bg); padding: 14px 16px; display: flex; align-items: center; gap: 12px; height: 60px; border-bottom: 1px solid var(--border-color); flex-shrink: 0; }}
+        .chat-avatar {{ width: 40px; height: 40px; border-radius: 50%; background: #5288c1; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 16px; color: white; }}
+        .header-meta {{ display: flex; flex-direction: column; }}
+        .header-title {{ font-size: 16px; font-weight: 600; }}
+        .header-subtitle {{ font-size: 12px; color: var(--text-secondary); }}
+        .content-scroll {{ flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 10px; }}
+        .section-title {{ font-size: 13px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }}
+        .topic-card {{ background-color: var(--card-bg); padding: 14px; border-radius: 12px; display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--text-primary); transition: background 0.2s, transform 0.1s; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }}
+        .topic-card:hover {{ background-color: var(--card-hover); transform: translateY(-1px); }}
+        .topic-icon {{ font-size: 22px; width: 36px; height: 36px; background: rgba(100,181,246,0.15); border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }}
+        .topic-info {{ flex: 1; min-width: 0; }}
+        .topic-title {{ font-size: 14.5px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 2px; }}
+        .topic-id {{ font-size: 11.5px; color: var(--text-secondary); }}
+        .arrow {{ font-size: 18px; color: var(--text-secondary); }}
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <div class="chat-avatar">{clean_target[:2].upper()}</div>
+            <div class="header-meta">
+                <div class="header-title">{chat_target}</div>
+                <div class="header-subtitle">{len(topics)} Forum Topics Archived</div>
+            </div>
+        </header>
+        <div class="content-scroll">
+            <div class="section-title">Forum Topics Hub</div>
+            {topics_html_items}
+        </div>
+    </div>
+</body>
+</html>
+"""
+    
+    with open(hub_path, "w", encoding="utf-8") as f:
+        f.write(hub_template)
+    print(f"-> Generated Master Group Hub: {os.path.abspath(hub_path)}")
 
 def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id=None):
     chronological_data = data
@@ -95,7 +178,7 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
         .app-container {{ background-color: var(--bg-color); width: 100%; max-width: 480px; height: 100%; display: flex; flex-direction: column; position: relative; box-shadow: 0 0 20px rgba(0,0,0,0.8); }}
 
         header {{ background-color: var(--header-bg); padding: 10px 14px; display: flex; align-items: center; gap: 12px; height: 56px; border-bottom: 1px solid var(--border-color); z-index: 10; flex-shrink: 0; }}
-        .back-arrow {{ font-size: 20px; color: var(--text-secondary); cursor: pointer; }}
+        .back-arrow {{ font-size: 22px; color: var(--text-secondary); cursor: pointer; text-decoration: none; display: flex; align-items: center; justify-content: center; width: 24px; }}
         .chat-avatar {{ width: 40px; height: 40px; border-radius: 50%; background: #5288c1; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 16px; color: white; flex-shrink: 0; }}
         .header-meta {{ display: flex; flex-direction: column; flex: 1; min-width: 0; }}
         .header-title {{ font-size: 15px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
@@ -161,7 +244,7 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
 <body>
     <div class="app-container">
         <header>
-            <div class="back-arrow">‹</div>
+            <a href="../index.html" class="back-arrow" title="Back to Hub">‹</a>
             <div class="chat-avatar" id="header-avatar">T</div>
             <div class="header-meta">
                 <div class="header-title">{chat_title}</div>

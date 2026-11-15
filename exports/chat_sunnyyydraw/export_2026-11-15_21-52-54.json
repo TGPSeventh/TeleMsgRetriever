@@ -1,0 +1,46 @@
+[
+    {
+        "id": 22328,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "about us yata kung anong nangyayari",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22324,
+        "date": "2026-11-15 13:52:49",
+        "reactions": []
+    },
+    {
+        "id": 22327,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ok po",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:52:43",
+        "reactions": []
+    },
+    {
+        "id": 22326,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hayaan na po",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:52:39",
+        "reactions": []
+    },
+    {
+        "id": 22325,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "di ko pala alam ano daw yung nabanggit?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:52:37",
+        "reactions": []
+    }
+]

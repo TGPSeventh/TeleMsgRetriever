@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22343,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "go na po",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:54:20",
+        "reactions": []
+    },
+    {
+        "id": 22342,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway here jom",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:54:20",
+        "reactions": []
+    },
+    {
+        "id": 22341,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "byeeee na agad? hahaha jk",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:54:06",
+        "reactions": []
+    }
+]

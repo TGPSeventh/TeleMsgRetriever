@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22298,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "head namin?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:47:40",
+        "reactions": []
+    },
+    {
+        "id": 22297,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sino ba head niyo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:47:37",
+        "reactions": []
+    },
+    {
+        "id": 22296,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi kinausap daw siya ng head niyo kung anong nangyayari",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:47:27",
+        "reactions": []
+    }
+]

@@ -1,27 +1,51 @@
 import asyncio
 import time
 from src.client import create_telegram_client
-from src.fetcher import fetch_chat_history
-from src.exporter import save_exports
+from src.fetcher import fetch_chat_history, fetch_all_forum_topics
+from src.exporter import save_exports, generate_group_hub_html
+
 
 async def run_sync(target_chat, limit, topic_id):
     """Executes a single incremental fetch, merge, snapshot, and HTML update pass."""
     client = create_telegram_client()
+    
     try:
         async with client:
             print("\n[Sync Started] Connected to Telegram...")
             me = await client.get_me()
-            my_user_id = me.id if me else None
+            my_user_id = me.id if me else None  # type: ignore
 
-            # Fetch messages incrementally using min_id
-            messages = await fetch_chat_history(client, target_chat, limit=limit, topic_id=topic_id)
-            
-            if messages:
-                # Save snapshots, update master database, and compile HTML viewer in Exports/@username/
-                save_exports(messages, target_chat, my_user_id=my_user_id)
-                print(f"[Sync Complete] Export folder updated successfully ({len(messages)} new/updated messages processed).")
+            topics = []
+            if not topic_id:
+                try:
+                    topics = await fetch_all_forum_topics(client, target_chat)
+                except Exception as e:
+                    print(f"ℹ️ Standard chat mode or topics check skipped: {e}")
+
+            if topics:
+                # Generate master group hub dashboard at the root level
+                generate_group_hub_html(target_chat, topics)
+
+                for topic in topics:
+                    print(f"\n----------------------------------------")
+                    print(f"Archiving Topic: [{topic['id']}] {topic['title']}")
+                    print(f"----------------------------------------")
+                    
+                    messages = await fetch_chat_history(client, target_chat, limit=limit, topic_id=topic['id'])
+                    
+                    if messages:
+                        save_exports(messages, target_chat, topic_id=topic['id'], my_user_id=my_user_id)
+                        print(f"[Sync Complete] Topic '{topic['title']}' updated ({len(messages)} messages processed).")
+                    else:
+                        print(f"-> No new messages in topic '{topic['title']}'.")
             else:
-                print("[Sync Complete] No new messages found. Local archive is already up to date.")
+                messages = await fetch_chat_history(client, target_chat, limit=limit, topic_id=topic_id)
+                if messages:
+                    save_exports(messages, target_chat, topic_id=topic_id, my_user_id=my_user_id)
+                    print(f"[Sync Complete] Export folder updated successfully ({len(messages)} messages processed).")
+                else:
+                    print("[Sync Complete] No new messages found. Local archive is already up to date.")
+                    
     except Exception as e:
         print(f"[Sync Error] {e}")
 
@@ -38,7 +62,7 @@ async def main():
         print("Error: Target chat cannot be empty.")
         return
 
-    topic_input = input("Enter Topic ID if pulling from a specific forum topic (leave blank otherwise): ").strip()
+    topic_input = input("Enter Topic ID if pulling from a specific forum topic (leave blank to auto-discover all topics): ").strip()
     topic_id = int(topic_input) if topic_input.isdigit() else None
 
     limit_input = input("Enter message limit per fetch (leave blank or type 'all' for complete history): ").strip()
@@ -60,7 +84,6 @@ async def main():
     mode_choice = input("Select mode [1 or 2, default 1]: ").strip()
 
     if mode_choice == "2":
-        # 1. Interval Configuration (in seconds)
         print("\n--- Select Sync Interval (in seconds) ---")
         print("  [1] 30 seconds (Real-time incremental sync)")
         print("  [2] 300 seconds (5 minutes)")
@@ -89,9 +112,8 @@ async def main():
             except ValueError:
                 interval_seconds = 3600
         else:
-            interval_seconds = 3600  # Default to 1 hour
+            interval_seconds = 3600
 
-        # 2. Total Duration Configuration
         print("\n--- Select Total Run Duration (how long the script stays active) ---")
         print("  [1] Run indefinitely until stopped manually (Ctrl+C)")
         print("  [2] Run for a specific duration (in hours)")
@@ -117,7 +139,6 @@ async def main():
         start_time = time.time()
         
         while True:
-            # Check if total duration limit has been reached
             if max_duration_seconds and (time.time() - start_time >= max_duration_seconds):
                 print("\n[Duration Reached] Total specified run duration has elapsed. Shutting down cleanly.")
                 break

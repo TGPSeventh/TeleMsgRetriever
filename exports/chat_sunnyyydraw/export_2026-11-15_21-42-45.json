@@ -1,0 +1,62 @@
+[
+    {
+        "id": 22276,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiiii",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22273,
+        "date": "2026-11-15 13:42:21",
+        "reactions": []
+    },
+    {
+        "id": 22275,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "coool",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:42:14",
+        "reactions": []
+    },
+    {
+        "id": 22274,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yaaay",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:42:13",
+        "reactions": []
+    },
+    {
+        "id": 22273,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kausap lang ni Jom si Sandy",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:41:57",
+        "reactions": []
+    },
+    {
+        "id": 22272,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "haluu, we’re home",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:41:29",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

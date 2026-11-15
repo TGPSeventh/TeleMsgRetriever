@@ -3,28 +3,50 @@ import json
 import asyncio
 from telethon import errors
 from telethon.tl.types import MessageActionPhoneCall
-from telethon.tl.functions.channels import GetForumTopicsRequest
 
-def get_chat_paths(target_chat, topic_id=None):
+try:
+    from telethon.tl.functions.channels import GetForumTopicsRequest  # type: ignore
+except ImportError:
+    try:
+        from telethon.tl.functions.messages import GetForumTopicsRequest  # type: ignore
+    except ImportError:
+        GetForumTopicsRequest = None
+
+def get_group_root_path(target_chat):
     r"""
-    Standardizes chat targets into the explicit absolute folder structure:
+    Returns the root absolute folder path for the group:
     C:\Users\TGPSe\Projects\telegram_retriever\exports\chat_<name>\
     """
     clean_target = str(target_chat).strip()
     base_name = clean_target.replace('https://t.me/', '').replace('t.me/', '').replace('+', '').lstrip('@')
-    
     clean_name = base_name[5:] if base_name.startswith('chat_') else base_name
     
-    if topic_id:
-        folder_name = f"chat_{clean_name}_topic_{topic_id}"
-    else:
-        folder_name = f"chat_{clean_name}"
-        
-    file_prefix = folder_name
-        
+    folder_name = f"chat_{clean_name}"
     base_export_dir = r"C:\Users\TGPSe\Projects\telegram_retriever\exports"
     folder_path = os.path.join(base_export_dir, folder_name)
+    os.makedirs(folder_path, exist_ok=True)
+    return folder_path
+
+def get_chat_paths(target_chat, topic_id=None):
+    r"""
+    Standardizes chat targets into nested absolute folder structures:
+    - Root group: exports\chat_<name>\
+    - Nested topic: exports\chat_<name>\topic_<id>\
+    """
+    clean_target = str(target_chat).strip()
+    base_name = clean_target.replace('https://t.me/', '').replace('t.me/', '').replace('+', '').lstrip('@')
+    clean_name = base_name[5:] if base_name.startswith('chat_') else base_name
     
+    group_folder = get_group_root_path(target_chat)
+    
+    if topic_id:
+        folder_name = f"topic_{topic_id}"
+        folder_path = os.path.join(group_folder, folder_name)
+        file_prefix = f"chat_{clean_name}_topic_{topic_id}"
+    else:
+        folder_path = group_folder
+        file_prefix = f"chat_{clean_name}"
+        
     os.makedirs(folder_path, exist_ok=True)
     media_path = os.path.join(folder_path, "media")
     os.makedirs(media_path, exist_ok=True)
@@ -41,21 +63,28 @@ async def fetch_all_forum_topics(client, target_chat):
     entity = await client.get_entity(target_chat)
     topics_list = []
     
+    if GetForumTopicsRequest is None:
+        print("⚠️ Forum topics request schema is not supported in this Telethon version.")
+        return topics_list
+
     try:
-        result = await client(GetForumTopicsRequest(
-            channel=entity,
-            offset_date=0,
-            offset_id=0,
-            offset_topic=0,
-            limit=100
-        ))
+        request_params = {
+            "peer": entity,
+            "offset_date": None,
+            "offset_id": 0,
+            "offset_topic": 0,
+            "limit": 100
+        }
         
-        for topic in result.topics:
-            topics_list.append({
-                "id": topic.id,
-                "title": topic.title
-            })
-        print(f"📁 Discovered {len(topics_list)} topics in forum supergroup {target_chat}.")
+        result = await client(GetForumTopicsRequest(**request_params))  # type: ignore
+        
+        if hasattr(result, 'topics'):
+            for topic in result.topics:
+                topics_list.append({
+                    "id": topic.id,
+                    "title": topic.title
+                })
+            print(f"📁 Discovered {len(topics_list)} topics in forum supergroup {target_chat}.")
     except Exception as e:
         print(f"⚠️ This supergroup may not have forums enabled or accessible: {e}")
         

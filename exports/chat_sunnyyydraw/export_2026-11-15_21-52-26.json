@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22324,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "and wala naman kumausap sakin about",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:52:24",
+        "reactions": []
+    },
+    {
+        "id": 22323,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "bale 4 kasi sila\nsi Jonas sa data team\nsi Jane sa development team\nsi Ms. Jim sa QA\nthen si Dust overall\n\nbefore restructuring to ng team\nand now is\n\nJonas sa Data\nJane sa dev and qa",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:52:04",
+        "reactions": []
+    },
+    {
+        "id": 22322,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "message me later",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 13:52:03",
+        "reactions": []
+    }
+]
