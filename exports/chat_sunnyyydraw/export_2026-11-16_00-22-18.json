@@ -1,0 +1,46 @@
+[
+    {
+        "id": 22479,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "like di mo me nakilala",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22476,
+        "date": "2026-11-15 16:22:11",
+        "reactions": []
+    },
+    {
+        "id": 22478,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Joooo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:22:07",
+        "reactions": []
+    },
+    {
+        "id": 22477,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "para nakilala mo na sana yung for u",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:21:59",
+        "reactions": []
+    },
+    {
+        "id": 22476,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "like how reset?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:21:52",
+        "reactions": []
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 22537,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yup sleep na us Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22535,
+        "date": "2026-11-15 16:47:11",
+        "reactions": []
+    },
+    {
+        "id": 22536,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sa private time natin Jo nalang",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:47:01",
+        "reactions": []
+    },
+    {
+        "id": 22535,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sleep na us, nakaidlip me hahaha",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:47:00",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22534,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes pooo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:46:50",
+        "reactions": []
+    }
+]

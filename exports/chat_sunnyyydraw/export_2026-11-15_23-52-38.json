@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22425,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dont mind me na",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:52:38",
+        "reactions": []
+    },
+    {
+        "id": 22424,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sleep na u",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:52:33",
+        "reactions": []
+    }
+]

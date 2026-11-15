@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22401,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baka dahil magkakaroon me",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:46:07",
+        "reactions": []
+    },
+    {
+        "id": 22400,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ano pala reply nya here?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22369,
+        "date": "2026-11-15 15:45:52",
+        "reactions": []
+    }
+]

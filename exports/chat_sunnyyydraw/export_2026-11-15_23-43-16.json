@@ -1,0 +1,46 @@
+[
+    {
+        "id": 22395,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "no need to rush",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:43:14",
+        "reactions": []
+    },
+    {
+        "id": 22394,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "take time to think lang Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:43:11",
+        "reactions": []
+    },
+    {
+        "id": 22393,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "plan a parin",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:43:06",
+        "reactions": []
+    },
+    {
+        "id": 22392,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "idunno",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:42:55",
+        "reactions": []
+    }
+]

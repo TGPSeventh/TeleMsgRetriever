@@ -1,0 +1,40 @@
+[
+    {
+        "id": 22527,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di ka ganon eh",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:45:38",
+        "reactions": []
+    },
+    {
+        "id": 22526,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yeah, ang sweet mo eh",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22523,
+        "date": "2026-11-15 16:45:28",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22525,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "always Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:45:16",
+        "reactions": []
+    }
+]

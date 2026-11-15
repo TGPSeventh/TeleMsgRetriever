@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22374,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi ayaw niya akong iwan, i want him to start over",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:37:34",
+        "reactions": []
+    },
+    {
+        "id": 22373,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you for looking after me Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22371,
+        "date": "2026-11-15 15:37:33",
+        "reactions": []
+    },
+    {
+        "id": 22372,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "though sa kanya nanggaling kasi",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:37:14",
+        "reactions": []
+    }
+]

@@ -2,7 +2,7 @@ import os
 import json
 import asyncio
 from telethon import errors
-from telethon.tl.types import MessageActionPhoneCall
+from telethon.tl.types import MessageActionPhoneCall, DocumentAttributeSticker
 
 try:
     from telethon.tl.functions.channels import GetForumTopicsRequest  # type: ignore
@@ -92,7 +92,7 @@ async def fetch_all_forum_topics(client, target_chat):
 
 async def fetch_chat_history(client, target_chat, limit=None, topic_id=None):
     """
-    Fetches chat history incrementally, downloading photos, call logs, and reply links.
+    Fetches chat history incrementally, downloading photos, stickers, voice audio, call logs, and reply links.
     """
     messages_data = []
     
@@ -119,7 +119,7 @@ async def fetch_chat_history(client, target_chat, limit=None, topic_id=None):
         if highest_id > 0 and limit is None:
             kwargs['min_id'] = highest_id
 
-        print("Downloading message batches, media, call logs, and replies from Telegram...")
+        print("Downloading message batches, media, stickers, voice notes, call logs, and replies from Telegram...")
         
         async for message in client.iter_messages(entity, limit=limit, **kwargs):
             if not message.id:
@@ -144,18 +144,34 @@ async def fetch_chat_history(client, target_chat, limit=None, topic_id=None):
                     })
 
             media_relative_path = None
-            if message.photo:
+            is_sticker = False
+            is_voice = False
+
+            # Explicit check for sticker/voice attributes on documents
+            if message.media and hasattr(message.media, 'document'):
+                doc = message.media.document
+                for attr in doc.attributes:
+                    if isinstance(attr, DocumentAttributeSticker) or attr.__class__.__name__ == 'DocumentAttributeSticker':
+                        is_sticker = True
+                    elif attr.__class__.__name__ == 'DocumentAttributeAudio' and getattr(attr, 'voice', False):
+                        is_voice = True
+
+            if getattr(message, 'sticker', False):
+                is_sticker = True
+            if getattr(message, 'voice', False):
+                is_voice = True
+
+            # Download media handling for photos, documents, stickers, and voice notes
+            if message.photo or message.media:
                 try:
                     os.makedirs(media_dir, exist_ok=True)
-                    filename = f"img_{message.id}.jpg"
-                    full_media_path = os.path.join(media_dir, filename)
-                    
-                    if not os.path.exists(full_media_path):
-                        await client.download_media(message, file=full_media_path)
-                    
-                    media_relative_path = f"media/{filename}"
+                    # Pass the message object directly to download the attached file document
+                    downloaded_path = await client.download_media(message, file=media_dir)
+                    if downloaded_path:
+                        filename = os.path.basename(downloaded_path)
+                        media_relative_path = f"media/{filename}"
                 except Exception as e:
-                    print(f"⚠️ Failed to download photo for message {message.id}: {e}")
+                    print(f"⚠️ Failed to download media for message {message.id}: {e}")
 
             call_info = None
             if isinstance(message.action, MessageActionPhoneCall):
@@ -180,6 +196,8 @@ async def fetch_chat_history(client, target_chat, limit=None, topic_id=None):
                 "sender_name": sender_name,
                 "text": message.text or "",
                 "media_path": media_relative_path,
+                "is_sticker": is_sticker,
+                "is_voice": is_voice,
                 "call_info": call_info,
                 "reply_to_message_id": reply_to_id,
                 "date": message.date.strftime("%Y-%m-%d %H:%M:%S") if message.date else None,
@@ -188,7 +206,7 @@ async def fetch_chat_history(client, target_chat, limit=None, topic_id=None):
             
             if len(messages_data) % 100 == 0:
                 await asyncio.sleep(0.5)
-
+        
     except errors.FloodWaitError as e:
         print(f"⚠️ Telegram rate limit hit. Must wait {e.seconds} seconds.")
         await asyncio.sleep(e.seconds)

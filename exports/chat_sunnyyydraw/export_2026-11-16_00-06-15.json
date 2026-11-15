@@ -1,0 +1,40 @@
+[
+    {
+        "id": 22454,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero huwag na po me",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:05:59",
+        "reactions": []
+    },
+    {
+        "id": 22453,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I just want you happy",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:05:52",
+        "reactions": []
+    },
+    {
+        "id": 22452,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "always Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:05:44",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

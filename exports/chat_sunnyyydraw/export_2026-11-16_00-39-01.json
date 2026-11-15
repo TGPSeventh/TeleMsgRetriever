@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22522,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "wala lang ansarap mo lang lambingin ng ganon Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22519,
+        "date": "2026-11-15 16:38:53",
+        "reactions": []
+    },
+    {
+        "id": 22521,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwwy hahaha",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:38:40",
+        "reactions": []
+    },
+    {
+        "id": 22520,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes po, but in the right place and time following po Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:38:37",
+        "reactions": []
+    }
+]

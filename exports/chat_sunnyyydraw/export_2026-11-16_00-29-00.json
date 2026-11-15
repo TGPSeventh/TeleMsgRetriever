@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22493,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "always",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:28:34",
+        "reactions": []
+    },
+    {
+        "id": 22492,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I love you Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:28:31",
+        "reactions": []
+    }
+]

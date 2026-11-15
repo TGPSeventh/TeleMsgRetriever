@@ -1,0 +1,62 @@
+[
+    {
+        "id": 22439,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "you made it good",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22437,
+        "date": "2026-11-15 16:01:45",
+        "reactions": []
+    },
+    {
+        "id": 22438,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "natapos naman aral?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:01:44",
+        "reactions": []
+    },
+    {
+        "id": 22437,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "good to know po",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22433,
+        "date": "2026-11-15 16:01:37",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22436,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wdym",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:01:30",
+        "reactions": []
+    },
+    {
+        "id": 22435,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "stay for tonight?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22434,
+        "date": "2026-11-15 16:01:28",
+        "reactions": []
+    }
+]

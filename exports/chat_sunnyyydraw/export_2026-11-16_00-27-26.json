@@ -1,0 +1,46 @@
+[
+    {
+        "id": 22490,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "let's sleep Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:27:17",
+        "reactions": []
+    },
+    {
+        "id": 22489,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yupp",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:27:11",
+        "reactions": []
+    },
+    {
+        "id": 22488,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sleep na rin ikaw",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:27:03",
+        "reactions": []
+    },
+    {
+        "id": 22487,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "medj sleepy na",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22485,
+        "date": "2026-11-15 16:26:56",
+        "reactions": []
+    }
+]

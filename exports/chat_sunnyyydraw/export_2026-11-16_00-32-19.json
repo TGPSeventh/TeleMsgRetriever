@@ -1,0 +1,57 @@
+[
+    {
+        "id": 22505,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha pasaway",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:32:12",
+        "reactions": []
+    },
+    {
+        "id": 22504,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "wlaa nung us lang?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:32:06",
+        "reactions": []
+    },
+    {
+        "id": 22503,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ahh ok ok",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:31:59",
+        "reactions": []
+    },
+    {
+        "id": 22502,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "naur",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22500,
+        "date": "2026-11-15 16:31:56",
+        "reactions": []
+    },
+    {
+        "id": 22501,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no, nagpic lang me",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22499,
+        "date": "2026-11-15 16:31:53",
+        "reactions": []
+    }
+]

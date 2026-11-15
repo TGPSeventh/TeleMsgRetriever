@@ -1,0 +1,40 @@
+[
+    {
+        "id": 22460,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or December",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:07:17",
+        "reactions": []
+    },
+    {
+        "id": 22459,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "like nov?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22457,
+        "date": "2026-11-15 16:07:02",
+        "reactions": []
+    },
+    {
+        "id": 22458,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "i’m happy naman",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22455,
+        "date": "2026-11-15 16:06:54",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

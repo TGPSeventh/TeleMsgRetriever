@@ -1,0 +1,18 @@
+[
+    {
+        "id": 22540,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "opo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22536,
+        "date": "2026-11-15 16:50:39",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

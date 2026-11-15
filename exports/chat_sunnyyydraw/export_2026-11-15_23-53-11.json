@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22427,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "di pa rin naman sleepy ang person",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:52:59",
+        "reactions": []
+    },
+    {
+        "id": 22426,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nah it's okay",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:52:47",
+        "reactions": []
+    }
+]

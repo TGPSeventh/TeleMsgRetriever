@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22403,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no tagal pa yan",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22402,
+        "date": "2026-11-15 15:46:52",
+        "reactions": []
+    },
+    {
+        "id": 22402,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yan maigi ng maaga para all goods ka napagka pa nails nyo sa 21",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22401,
+        "date": "2026-11-15 15:46:31",
+        "reactions": []
+    }
+]

@@ -19,6 +19,8 @@ def normalize_message_schema(msg):
         "sender_name": msg.get("sender_name", "Unknown"),
         "text": msg.get("text", ""),
         "media_path": msg.get("media_path"),
+        "is_sticker": msg.get("is_sticker", False),
+        "is_voice": msg.get("is_voice", False),
         "call_info": msg.get("call_info"),
         "reply_to_message_id": msg.get("reply_to_message_id"),
         "date": msg.get("date"),
@@ -31,6 +33,10 @@ def merge_messages(old_messages, new_messages):
         normalized = normalize_message_schema(msg)
         if not normalized.get("media_path") and msg["id"] in msg_map:
             normalized["media_path"] = msg_map[msg["id"]].get("media_path")
+        if not normalized.get("is_sticker") and msg["id"] in msg_map:
+            normalized["is_sticker"] = msg_map[msg["id"]].get("is_sticker", False)
+        if not normalized.get("is_voice") and msg["id"] in msg_map:
+            normalized["is_voice"] = msg_map[msg["id"]].get("is_voice", False)
         if not normalized.get("call_info") and msg["id"] in msg_map:
             normalized["call_info"] = msg_map[msg["id"]].get("call_info")
         if not normalized.get("reply_to_message_id") and msg["id"] in msg_map:
@@ -63,9 +69,6 @@ def save_exports(data, chat_target, topic_id=None, my_user_id=None):
     print(f"-> Generated HTML viewer: {os.path.abspath(html_path)}")
 
 def generate_group_hub_html(chat_target, topics):
-    """
-    Generates a master group-level HTML dashboard (index.html) listing all forum topics inside the group root.
-    """
     group_folder = get_group_root_path(chat_target)
     hub_path = os.path.join(group_folder, "index.html")
     
@@ -215,6 +218,12 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
 
         .message-media {{ margin-bottom: 4px; border-radius: 8px; overflow: hidden; max-width: 260px; cursor: pointer; }}
         .message-media img {{ width: 100%; height: auto; display: block; border-radius: 8px; }}
+
+        .sticker-container {{ margin-bottom: 4px; max-width: 145px; }}
+        .sticker-container img, .sticker-container video {{ width: 100%; height: auto; display: block; border-radius: 8px; background: transparent; }}
+
+        .audio-container {{ margin-bottom: 4px; width: 240px; }}
+        .audio-container audio {{ width: 100%; height: 36px; border-radius: 6px; }}
 
         .call-content {{ display: flex; justify-content: space-between; align-items: center; gap: 12px; }}
         .call-text-side {{ display: flex; flex-direction: column; gap: 2px; }}
@@ -386,7 +395,20 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
                         </div>
                     `;
                 }} else if (msg.media_path) {{
-                    contentHtml = `<div class="message-media"><img src="${{msg.media_path}}" loading="lazy" onclick="window.open(this.src, '_blank')"></div>`;
+                    const lowerPath = msg.media_path.toLowerCase();
+                    const ext = lowerPath.split('.').pop();
+                    
+                    if (msg.is_sticker || ext === 'webp') {{
+                        contentHtml = `<div class="sticker-container"><img src="${{msg.media_path}}" alt="Sticker" loading="lazy"></div>`;
+                    }} else if (ext === 'webm') {{
+                        contentHtml = `<div class="sticker-container"><video autoplay loop muted playsinline class="chat-sticker"><source src="${{msg.media_path}}" type="video/webm"></video></div>`;
+                    }} else if (ext === 'tgs') {{
+                        contentHtml = `<div class="sticker-container" style="font-size: 11px; font-style: italic; color: var(--text-secondary); padding: 4px;">[Animated TGS Sticker]</div>`;
+                    }} else if (msg.is_voice || ext === 'ogg' || ext === 'mp3' || ext === 'wav' || ext === 'm4a') {{
+                        contentHtml = `<div class="audio-container"><audio controls preload="none"><source src="${{msg.media_path}}"></audio></div>`;
+                    }} else {{
+                        contentHtml = `<div class="message-media"><img src="${{msg.media_path}}" loading="lazy" onclick="window.open(this.src, '_blank')"></div>`;
+                    }}
                 }}
 
                 let textHtml = msg.text ? `<div class="message-text">${{escapeHtml(msg.text)}}</div>` : '';
@@ -456,3 +478,4 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write(html_template)
+# ```[cite: 4, 5]

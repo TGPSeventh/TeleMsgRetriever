@@ -1,0 +1,51 @@
+[
+    {
+        "id": 22464,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okay po",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:07:42",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22463,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "December it is Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:07:37",
+        "reactions": []
+    },
+    {
+        "id": 22462,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "alright",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:07:33",
+        "reactions": []
+    },
+    {
+        "id": 22461,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sagad na yung december jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:07:29",
+        "reactions": []
+    }
+]

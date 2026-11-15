@@ -1,0 +1,51 @@
+[
+    {
+        "id": 22468,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway ka",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:08:17",
+        "reactions": []
+    },
+    {
+        "id": 22467,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sleep na u",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:08:12",
+        "reactions": []
+    },
+    {
+        "id": 22466,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "for letting me love you pa",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:08:12",
+        "reactions": []
+    },
+    {
+        "id": 22465,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Thank you Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:07:59",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

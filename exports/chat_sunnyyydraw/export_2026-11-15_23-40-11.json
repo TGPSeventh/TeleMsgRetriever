@@ -1,0 +1,29 @@
+[
+    {
+        "id": 22383,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22376,
+        "date": "2026-11-15 15:39:59",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22382,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "got it, understood po",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:39:49",
+        "reactions": []
+    }
+]

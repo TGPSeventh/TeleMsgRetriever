@@ -1,0 +1,46 @@
+[
+    {
+        "id": 22443,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "you were there that's why it was good Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22442,
+        "date": "2026-11-15 16:02:28",
+        "reactions": []
+    },
+    {
+        "id": 22442,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway, it was u naman",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22439,
+        "date": "2026-11-15 16:02:13",
+        "reactions": []
+    },
+    {
+        "id": 22441,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero for some other weekends na",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:02:12",
+        "reactions": []
+    },
+    {
+        "id": 22440,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yup natapos naman exploring ng other tech trends pa po",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22438,
+        "date": "2026-11-15 16:02:02",
+        "reactions": []
+    }
+]

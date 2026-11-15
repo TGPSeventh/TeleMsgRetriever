@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22518,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Yuppp",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:37:58",
+        "reactions": []
+    },
+    {
+        "id": 22517,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "like nung friday na di me okay",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:37:50",
+        "reactions": []
+    },
+    {
+        "id": 22516,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "i like it kapag ganon ka",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:37:34",
+        "reactions": []
+    }
+]

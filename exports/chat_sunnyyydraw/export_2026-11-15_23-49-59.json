@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22411,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hmm ok ok",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:49:58",
+        "reactions": []
+    },
+    {
+        "id": 22410,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes, pero kahit maisip niya yan, malabong mag let go si Jom",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:49:47",
+        "reactions": []
+    }
+]

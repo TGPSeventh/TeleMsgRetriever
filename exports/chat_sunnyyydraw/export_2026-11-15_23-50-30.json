@@ -1,0 +1,57 @@
+[
+    {
+        "id": 22416,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero I doubt, di siya agad maglelet go non",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:50:27",
+        "reactions": []
+    },
+    {
+        "id": 22415,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ohh ok ok",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:50:20",
+        "reactions": []
+    },
+    {
+        "id": 22414,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yup",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22413,
+        "date": "2026-11-15 15:50:14",
+        "reactions": []
+    },
+    {
+        "id": 22413,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "unless sabihin mo yun",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:50:07",
+        "reactions": []
+    },
+    {
+        "id": 22412,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "buo na decision niya na ako want niya kasama",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:50:07",
+        "reactions": []
+    }
+]

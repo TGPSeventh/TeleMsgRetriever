@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22367,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "told him na I still care",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:33:48",
+        "reactions": []
+    },
+    {
+        "id": 22366,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "aaand?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22365,
+        "date": "2026-11-15 15:33:39",
+        "reactions": []
+    }
+]

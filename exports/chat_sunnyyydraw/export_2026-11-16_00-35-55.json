@@ -1,0 +1,46 @@
+[
+    {
+        "id": 22513,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sa office",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:35:56",
+        "reactions": []
+    },
+    {
+        "id": 22512,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "lessen na natin yung pagiging touchy",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:35:51",
+        "reactions": []
+    },
+    {
+        "id": 22511,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes Jo?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:35:40",
+        "reactions": []
+    },
+    {
+        "id": 22510,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:35:34",
+        "reactions": []
+    }
+]

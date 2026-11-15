@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22471,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pasaway ngani hahaha",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:08:50",
+        "reactions": []
+    },
+    {
+        "id": 22470,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "alam mo namang lagi kong hahayaan",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:08:41",
+        "reactions": []
+    },
+    {
+        "id": 22469,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ikaw rin naman, hinahayaan mo ko",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22466,
+        "date": "2026-11-15 16:08:29",
+        "reactions": []
+    }
+]

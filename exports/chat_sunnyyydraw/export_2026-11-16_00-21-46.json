@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22475,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kung pwede lang kita reset eh",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:21:44",
+        "reactions": []
+    },
+    {
+        "id": 22474,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "whyy",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:21:37",
+        "reactions": []
+    },
+    {
+        "id": 22473,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hays jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:21:30",
+        "reactions": []
+    }
+]

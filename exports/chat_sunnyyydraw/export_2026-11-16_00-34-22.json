@@ -1,0 +1,24 @@
+[
+    {
+        "id": 22507,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:34:23",
+        "reactions": []
+    },
+    {
+        "id": 22506,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "marami hahahaha kasi di ko napic, gusto mo ba mapalayo nanaman me nang todo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22504,
+        "date": "2026-11-15 16:34:15",
+        "reactions": []
+    }
+]

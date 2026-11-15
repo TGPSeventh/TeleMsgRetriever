@@ -1,0 +1,35 @@
+[
+    {
+        "id": 22390,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "noo parin jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22388,
+        "date": "2026-11-15 15:41:58",
+        "reactions": []
+    },
+    {
+        "id": 22389,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no, dami kong mali and kasalanan",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22386,
+        "date": "2026-11-15 15:41:49",
+        "reactions": []
+    },
+    {
+        "id": 22388,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I mean flawed? yes but more than enough ka pa rin para mahalin Jo",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:41:47",
+        "reactions": []
+    }
+]

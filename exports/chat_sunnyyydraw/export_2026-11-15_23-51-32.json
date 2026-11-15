@@ -1,0 +1,40 @@
+[
+    {
+        "id": 22422,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yata hahahhaha",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22420,
+        "date": "2026-11-15 15:51:23",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22421,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ito nakatatak sa kanya",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": 22412,
+        "date": "2026-11-15 15:51:14",
+        "reactions": []
+    },
+    {
+        "id": 22420,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ganun ba gemini?",
+        "media_path": null,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 15:51:07",
+        "reactions": []
+    }
+]

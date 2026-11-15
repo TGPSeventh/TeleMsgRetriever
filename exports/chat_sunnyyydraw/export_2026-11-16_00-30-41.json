@@ -1,0 +1,18 @@
+[
+    {
+        "id": 22494,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "media_path": "media/img_22494.jpg",
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 16:30:24",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

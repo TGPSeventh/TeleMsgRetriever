@@ -1,0 +1,15 @@
+[
+    {
+        "id": 22541,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "",
+        "media_path": "media/voice_2026-11-15_17-41-37.ogg",
+        "is_sticker": false,
+        "is_voice": true,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-15 17:41:37",
+        "reactions": []
+    }
+]
