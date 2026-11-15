@@ -29,49 +29,47 @@ telegram_retriever/
 │   └── exporter.py                   # Schema normalization, incremental merging & HTML vault generation
 │
 └── main.py                           # Execution runner
-
-
----
-
-# Installation & Setup
+```
 
 ---
 
-## Clone or navigate to your project directory:
-```text
-cd C:\Users\TGPSe\Projects\telegram_retriever
+## Installation & Setup
 
+1. **Clone or navigate to your project directory:**
+   ```bash
+   cd C:\Users\TGPSe\Projects\telegram_retriever
+   ```
 
----
+2. **Install dependencies:**
+   Make sure you have Telethon installed:
+   ```bash
+   pip install telethon
+   ```
 
-## Install dependencies:
-```text
-Make sure you have Telethon installed:
-pip install telethon
-
----
-
-## Configure API Credentials:
-```text
-Open main.py and replace your Telegram api_id and api_hash:
-api_id = 1234567
-api_hash = 'your_api_hash'
+3. **Configure API Credentials:**
+   Open `main.py` and replace your Telegram `api_id` and `api_hash`:
+   ```python
+   api_id = 1234567
+   api_hash = 'your_api_hash'
+   ```
 
 ---
 
 ## Usage
-```text
+
 Run the main synchronization script to automatically scan supergroups, discover topics, download media, and compile your HTML viewers:
+
+```bash
 python main.py
+```
 
 ---
 
-## JSON Message Schema
+## Core JSON Message Schema
 
-```text
 Every message stored in the master archive follows this rigid schema structure:
 
-JSON
+```json
 {
     "id": 107,
     "sender_id": 987654321,
@@ -88,3 +86,4 @@ JSON
         }
     ]
 }
+```
