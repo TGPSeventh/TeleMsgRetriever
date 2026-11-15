@@ -1,0 +1,17 @@
+[
+    {
+        "id": 22248,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "media_path": null,
+        "call_info": {
+            "video": true,
+            "duration": 711,
+            "duration_formatted": "11m 51s",
+            "reason": "PhoneCallDiscardReasonHangup"
+        },
+        "date": "2026-11-15 11:32:37",
+        "reactions": []
+    }
+]

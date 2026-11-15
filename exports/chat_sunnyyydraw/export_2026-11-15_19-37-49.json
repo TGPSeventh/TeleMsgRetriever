@@ -1,0 +1,57 @@
+[
+    {
+        "id": 22264,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sabihan kita if pa sleep na po me",
+        "media_path": null,
+        "call_info": null,
+        "date": "2026-11-15 11:37:43",
+        "reactions": []
+    },
+    {
+        "id": 22263,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo will do",
+        "media_path": null,
+        "call_info": null,
+        "date": "2026-11-15 11:37:32",
+        "reactions": []
+    },
+    {
+        "id": 22262,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sleep na ha if antok na",
+        "media_path": null,
+        "call_info": null,
+        "date": "2026-11-15 11:37:23",
+        "reactions": []
+    },
+    {
+        "id": 22261,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "byee",
+        "media_path": null,
+        "call_info": null,
+        "date": "2026-11-15 11:37:04",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22260,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "byiee",
+        "media_path": null,
+        "call_info": null,
+        "date": "2026-11-15 11:36:54",
+        "reactions": []
+    }
+]

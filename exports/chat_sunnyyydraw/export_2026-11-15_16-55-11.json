@@ -1,0 +1,2911 @@
+[
+    {
+        "id": 22050,
+        "date": "2026-11-15 08:54:55+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "onti hahaha pero right now is all good na",
+        "reactions": []
+    },
+    {
+        "id": 22049,
+        "date": "2026-11-15 08:52:54+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "still sleepy no?",
+        "reactions": []
+    },
+    {
+        "id": 22048,
+        "date": "2026-11-15 08:51:36+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee",
+        "reactions": []
+    },
+    {
+        "id": 22047,
+        "date": "2026-11-15 08:42:08+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiii. naka tulog actually hahaha kakagising lang",
+        "reactions": []
+    },
+    {
+        "id": 22046,
+        "date": "2026-11-15 07:24:45+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "here lang me sa baba, will clean lang",
+        "reactions": []
+    },
+    {
+        "id": 22045,
+        "date": "2026-11-15 07:23:36+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "aral mabutiii",
+        "reactions": []
+    },
+    {
+        "id": 22044,
+        "date": "2026-11-15 07:23:25+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "Gen Pat",
+        "reactions": []
+    },
+    {
+        "id": 22043,
+        "date": "2026-11-15 06:07:11+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "eat na me",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22042,
+        "date": "2026-11-15 06:07:04+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baba na me",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22041,
+        "date": "2026-11-15 06:07:03+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo",
+        "reactions": []
+    },
+    {
+        "id": 22040,
+        "date": "2026-11-15 06:07:02+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "opo",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22039,
+        "date": "2026-11-15 06:07:00+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eat na poooo",
+        "reactions": []
+    },
+    {
+        "id": 22038,
+        "date": "2026-11-15 06:06:59+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "eat ka na rin",
+        "reactions": []
+    },
+    {
+        "id": 22037,
+        "date": "2026-11-15 06:06:56+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes po",
+        "reactions": []
+    },
+    {
+        "id": 22036,
+        "date": "2026-11-15 06:06:53+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 22035,
+        "date": "2026-11-15 06:06:52+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eat na jooo",
+        "reactions": []
+    },
+    {
+        "id": 22034,
+        "date": "2026-11-15 06:06:51+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ayyy",
+        "reactions": [
+            {
+                "reaction": "😁",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22033,
+        "date": "2026-11-15 06:06:45+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha",
+        "reactions": []
+    },
+    {
+        "id": 22032,
+        "date": "2026-11-15 06:06:43+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di ko alam kung sino ha",
+        "reactions": []
+    },
+    {
+        "id": 22031,
+        "date": "2026-11-15 06:06:41+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha",
+        "reactions": []
+    },
+    {
+        "id": 22030,
+        "date": "2026-11-15 06:06:39+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Jooo",
+        "reactions": []
+    },
+    {
+        "id": 22029,
+        "date": "2026-11-15 06:06:35+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "oras",
+        "reactions": []
+    },
+    {
+        "id": 22028,
+        "date": "2026-11-15 06:06:34+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "di na naman mamamalayan otas",
+        "reactions": []
+    },
+    {
+        "id": 22027,
+        "date": "2026-11-15 06:06:29+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baka may magrelease ulit",
+        "reactions": []
+    },
+    {
+        "id": 22026,
+        "date": "2026-11-15 06:06:21+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "eat well Jo",
+        "reactions": []
+    },
+    {
+        "id": 22025,
+        "date": "2026-11-15 06:06:18+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "so i had to cut it",
+        "reactions": []
+    },
+    {
+        "id": 22024,
+        "date": "2026-11-15 06:06:14+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hhahaha okiee",
+        "reactions": []
+    },
+    {
+        "id": 22023,
+        "date": "2026-11-15 06:06:07+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahahha",
+        "reactions": []
+    },
+    {
+        "id": 22022,
+        "date": "2026-11-15 06:06:06+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eh hungry na me",
+        "reactions": []
+    },
+    {
+        "id": 22021,
+        "date": "2026-11-15 06:05:59+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baka humaba",
+        "reactions": []
+    },
+    {
+        "id": 22020,
+        "date": "2026-11-15 06:05:33+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "reactions": []
+    },
+    {
+        "id": 22019,
+        "date": "2026-11-15 05:54:43+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "reactions": []
+    },
+    {
+        "id": 22018,
+        "date": "2026-11-15 05:29:25+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "reactions": []
+    },
+    {
+        "id": 22017,
+        "date": "2026-11-15 05:25:35+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "G Jo",
+        "reactions": []
+    },
+    {
+        "id": 22016,
+        "date": "2026-11-15 05:25:08+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiee jo",
+        "reactions": []
+    },
+    {
+        "id": 22015,
+        "date": "2026-11-15 05:25:03+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiees mag headset lang me",
+        "reactions": []
+    },
+    {
+        "id": 22014,
+        "date": "2026-11-15 05:25:02+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "here parin kwarto",
+        "reactions": []
+    },
+    {
+        "id": 22013,
+        "date": "2026-11-15 05:24:52+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "call me saglit, wanna see u",
+        "reactions": []
+    },
+    {
+        "id": 22012,
+        "date": "2026-11-15 05:24:44+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "you po?",
+        "reactions": []
+    },
+    {
+        "id": 22011,
+        "date": "2026-11-15 05:24:33+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiee joo",
+        "reactions": []
+    },
+    {
+        "id": 22010,
+        "date": "2026-11-15 05:23:33+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "parang mini projects ba ganun",
+        "reactions": []
+    },
+    {
+        "id": 22009,
+        "date": "2026-11-15 05:23:03+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "exploring lang ng python",
+        "reactions": []
+    },
+    {
+        "id": 22008,
+        "date": "2026-11-15 05:22:48+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "coding po",
+        "reactions": []
+    },
+    {
+        "id": 22007,
+        "date": "2026-11-15 05:22:24+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "what r u doing jo?",
+        "reactions": []
+    },
+    {
+        "id": 22006,
+        "date": "2026-11-15 05:22:16+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahahah okiee po",
+        "reactions": []
+    },
+    {
+        "id": 22005,
+        "date": "2026-11-15 05:21:46+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "next time Jo",
+        "reactions": []
+    },
+    {
+        "id": 22004,
+        "date": "2026-11-15 05:21:31+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "or maybe u can ask me if it’s okay na gawin",
+        "reactions": []
+    },
+    {
+        "id": 22003,
+        "date": "2026-11-15 05:20:57+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee, tama ka naman jo",
+        "reactions": []
+    },
+    {
+        "id": 22002,
+        "date": "2026-11-15 05:18:01+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "parang ganun ba",
+        "reactions": []
+    },
+    {
+        "id": 22001,
+        "date": "2026-11-15 05:17:55+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kasi parang ang feeling ko pinipilit ko sayo gawin kapag ako nauna so like I need go signal na pwede na",
+        "reactions": []
+    },
+    {
+        "id": 22000,
+        "date": "2026-11-15 05:17:03+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "oo",
+        "reactions": []
+    },
+    {
+        "id": 21999,
+        "date": "2026-11-15 05:16:56+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "like kapag ako nauna?",
+        "reactions": []
+    },
+    {
+        "id": 21998,
+        "date": "2026-11-15 05:14:37+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "for me ha",
+        "reactions": []
+    },
+    {
+        "id": 21997,
+        "date": "2026-11-15 05:14:35+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kung baga cue signal siguro sya na okay gawin yung beyond sa kissing natin Jo",
+        "reactions": []
+    },
+    {
+        "id": 21996,
+        "date": "2026-11-15 05:14:13+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21995,
+        "date": "2026-11-15 05:14:06+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21994,
+        "date": "2026-11-15 05:14:05+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eme",
+        "reactions": []
+    },
+    {
+        "id": 21993,
+        "date": "2026-11-15 05:14:04+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee will do it again",
+        "reactions": []
+    },
+    {
+        "id": 21992,
+        "date": "2026-11-15 05:13:40+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I loved it",
+        "reactions": []
+    },
+    {
+        "id": 21991,
+        "date": "2026-11-15 05:13:35+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "no it's okay Jo",
+        "reactions": []
+    },
+    {
+        "id": 21990,
+        "date": "2026-11-15 05:13:26+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "my bad",
+        "reactions": []
+    },
+    {
+        "id": 21989,
+        "date": "2026-11-15 05:13:23+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sowwy",
+        "reactions": []
+    },
+    {
+        "id": 21988,
+        "date": "2026-11-15 05:12:06+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaa",
+        "reactions": []
+    },
+    {
+        "id": 21987,
+        "date": "2026-11-15 05:12:06+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha tapos lalong na turn on na nung ikaw na nasa top",
+        "reactions": []
+    },
+    {
+        "id": 21986,
+        "date": "2026-11-15 05:11:30+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ano na sya e nung kissing us palang tayo sinabi ko na na nadikit sya kasi erected sabi mo oks lang",
+        "reactions": []
+    },
+    {
+        "id": 21985,
+        "date": "2026-11-15 05:10:43+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why",
+        "reactions": []
+    },
+    {
+        "id": 21984,
+        "date": "2026-11-15 05:10:40+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Jooo",
+        "reactions": []
+    },
+    {
+        "id": 21983,
+        "date": "2026-11-15 05:10:31+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pang asar ko yon kay Jom, di ko alam na even ikaw mabilis ma-turn on doon",
+        "reactions": []
+    },
+    {
+        "id": 21981,
+        "date": "2026-11-15 05:09:56+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwwy",
+        "reactions": []
+    },
+    {
+        "id": 21980,
+        "date": "2026-11-15 05:09:54+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "wala ihh nung nag top ka na then nangyari na gumusto na rin me",
+        "reactions": []
+    },
+    {
+        "id": 21979,
+        "date": "2026-11-15 05:09:22+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "tunayy",
+        "reactions": []
+    },
+    {
+        "id": 21978,
+        "date": "2026-11-15 05:09:09+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "we look innocent kasi kaya di halatang umabot tayo ron",
+        "reactions": []
+    },
+    {
+        "id": 21977,
+        "date": "2026-11-15 05:07:37+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "well semi lang naman kasi talaga sya",
+        "reactions": []
+    },
+    {
+        "id": 21976,
+        "date": "2026-11-15 05:06:58+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "may times kasi na nalilimutan ko na nangyari yung 21, kasi di halatang nagawa na natin",
+        "reactions": []
+    },
+    {
+        "id": 21975,
+        "date": "2026-11-15 05:06:53+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or more?",
+        "reactions": []
+    },
+    {
+        "id": 21974,
+        "date": "2026-11-15 05:06:51+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha want it like that again?",
+        "reactions": []
+    },
+    {
+        "id": 21973,
+        "date": "2026-11-15 05:06:29+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "reactions": []
+    },
+    {
+        "id": 21972,
+        "date": "2026-11-15 05:06:27+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "naalala ko lang ulit",
+        "reactions": []
+    },
+    {
+        "id": 21971,
+        "date": "2026-11-15 05:06:09+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21970,
+        "date": "2026-11-15 05:06:05+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "whyyyy",
+        "reactions": []
+    },
+    {
+        "id": 21969,
+        "date": "2026-11-15 05:05:55+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "joooo hahaha",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21968,
+        "date": "2026-11-15 05:05:42+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "busy ako kumain so naririnig lang kita",
+        "reactions": []
+    },
+    {
+        "id": 21967,
+        "date": "2026-11-15 05:05:25+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nung 21 kasi di ko masyado nakita reaction mo e",
+        "reactions": []
+    },
+    {
+        "id": 21966,
+        "date": "2026-11-15 05:04:47+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21965,
+        "date": "2026-11-15 05:04:45+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yeah",
+        "reactions": []
+    },
+    {
+        "id": 21964,
+        "date": "2026-11-15 05:04:44+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "we’ll see",
+        "reactions": []
+    },
+    {
+        "id": 21963,
+        "date": "2026-11-15 05:04:39+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "idunno hahahah",
+        "reactions": []
+    },
+    {
+        "id": 21961,
+        "date": "2026-11-15 05:04:16+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I wanna see your reaction as well Jo",
+        "reactions": []
+    },
+    {
+        "id": 21960,
+        "date": "2026-11-15 05:03:21+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pwede naman",
+        "reactions": []
+    },
+    {
+        "id": 21959,
+        "date": "2026-11-15 05:03:18+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "well",
+        "reactions": []
+    },
+    {
+        "id": 21958,
+        "date": "2026-11-15 05:03:10+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "your reaction",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21957,
+        "date": "2026-11-15 05:02:18+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wanna see your face lang",
+        "reactions": []
+    },
+    {
+        "id": 21956,
+        "date": "2026-11-15 05:01:43+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "great minds think alike talaga",
+        "reactions": [
+            {
+                "reaction": "😁",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21955,
+        "date": "2026-11-15 05:01:31+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "HAHAHHAAH",
+        "reactions": []
+    },
+    {
+        "id": 21954,
+        "date": "2026-11-15 05:01:27+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21953,
+        "date": "2026-11-15 05:01:26+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kasiii",
+        "reactions": []
+    },
+    {
+        "id": 21952,
+        "date": "2026-11-15 05:01:25+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eme",
+        "reactions": []
+    },
+    {
+        "id": 21950,
+        "date": "2026-11-15 05:01:12+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I won't be doing it in personal",
+        "reactions": []
+    },
+    {
+        "id": 21949,
+        "date": "2026-11-15 05:01:05+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Jooo",
+        "reactions": []
+    },
+    {
+        "id": 21948,
+        "date": "2026-11-15 05:01:01+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yung side mong yon",
+        "reactions": []
+    },
+    {
+        "id": 21947,
+        "date": "2026-11-15 05:00:54+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no. i mean ng personal",
+        "reactions": []
+    },
+    {
+        "id": 21946,
+        "date": "2026-11-15 04:58:00+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "?",
+        "reactions": []
+    },
+    {
+        "id": 21945,
+        "date": "2026-11-15 04:57:50+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "masyado ba mababa angle",
+        "reactions": []
+    },
+    {
+        "id": 21944,
+        "date": "2026-11-15 04:57:40+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwy",
+        "reactions": []
+    },
+    {
+        "id": 21943,
+        "date": "2026-11-15 04:57:38+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "waahhh",
+        "reactions": []
+    },
+    {
+        "id": 21942,
+        "date": "2026-11-15 04:55:25+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wanna see your face while doing it",
+        "reactions": []
+    },
+    {
+        "id": 21941,
+        "date": "2026-11-15 04:54:50+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hays jo",
+        "reactions": []
+    },
+    {
+        "id": 21940,
+        "date": "2026-11-15 04:54:26+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "reactions": []
+    },
+    {
+        "id": 21939,
+        "date": "2026-11-15 04:50:14+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ano ba need mo gawin? like top 3 chores mo for today?",
+        "reactions": []
+    },
+    {
+        "id": 21938,
+        "date": "2026-11-15 04:47:39+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21937,
+        "date": "2026-11-15 04:47:37+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sinamahan mo ko mag release",
+        "reactions": []
+    },
+    {
+        "id": 21936,
+        "date": "2026-11-15 04:47:18+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why po",
+        "reactions": []
+    },
+    {
+        "id": 21935,
+        "date": "2026-11-15 04:47:14+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no, wala me magagawa niyan eh",
+        "reactions": []
+    },
+    {
+        "id": 21934,
+        "date": "2026-11-15 04:47:12+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I'm happy po",
+        "reactions": []
+    },
+    {
+        "id": 21933,
+        "date": "2026-11-15 04:47:02+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you Jo",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21932,
+        "date": "2026-11-15 04:46:53+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "na para bang di siya nagrelease",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21931,
+        "date": "2026-11-15 04:46:36+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "HAHAHAHAH",
+        "reactions": []
+    },
+    {
+        "id": 21930,
+        "date": "2026-11-15 04:46:29+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "wala langs you wanna rest Jo like sleep ka muna?",
+        "reactions": []
+    },
+    {
+        "id": 21929,
+        "date": "2026-11-15 04:46:12+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha eme",
+        "reactions": []
+    },
+    {
+        "id": 21928,
+        "date": "2026-11-15 04:46:09+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "book na ako?",
+        "reactions": [
+            {
+                "reaction": "😁",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21927,
+        "date": "2026-11-15 04:46:03+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "what’s next po",
+        "reactions": []
+    },
+    {
+        "id": 21926,
+        "date": "2026-11-15 04:45:59+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiee Jo",
+        "reactions": []
+    },
+    {
+        "id": 21925,
+        "date": "2026-11-15 04:45:45+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "back po Jo",
+        "reactions": []
+    },
+    {
+        "id": 21924,
+        "date": "2026-11-15 04:20:41+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "brb",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21923,
+        "date": "2026-11-15 04:20:39+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo",
+        "reactions": []
+    },
+    {
+        "id": 21922,
+        "date": "2026-11-15 04:20:35+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "just message me po",
+        "reactions": []
+    },
+    {
+        "id": 21921,
+        "date": "2026-11-15 04:19:51+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Thank you Jo",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21920,
+        "date": "2026-11-15 04:19:43+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "go jo",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21919,
+        "date": "2026-11-15 04:19:28+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "brb",
+        "reactions": []
+    },
+    {
+        "id": 21918,
+        "date": "2026-11-15 04:19:20+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "done po mag sampay lang sa taas",
+        "reactions": []
+    },
+    {
+        "id": 21917,
+        "date": "2026-11-15 04:02:49+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21916,
+        "date": "2026-11-15 03:05:23+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo",
+        "reactions": []
+    },
+    {
+        "id": 21915,
+        "date": "2026-11-15 03:05:21+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway mo",
+        "reactions": []
+    },
+    {
+        "id": 21914,
+        "date": "2026-11-15 03:05:17+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "be careful po",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21913,
+        "date": "2026-11-15 01:47:27+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21912,
+        "date": "2026-11-15 01:14:58+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "g for call",
+        "reactions": []
+    },
+    {
+        "id": 21911,
+        "date": "2026-11-15 01:12:36+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ingat",
+        "reactions": []
+    },
+    {
+        "id": 21910,
+        "date": "2026-11-15 01:12:34+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiii",
+        "reactions": []
+    },
+    {
+        "id": 21909,
+        "date": "2026-11-15 01:12:16+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "paakyat na po",
+        "reactions": []
+    },
+    {
+        "id": 21908,
+        "date": "2026-11-15 01:06:18+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "reactions": []
+    },
+    {
+        "id": 21907,
+        "date": "2026-11-15 00:55:58+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "reactions": []
+    },
+    {
+        "id": 21906,
+        "date": "2026-11-15 00:49:41+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "",
+        "reactions": []
+    },
+    {
+        "id": 21905,
+        "date": "2026-11-15 00:46:11+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiii",
+        "reactions": []
+    },
+    {
+        "id": 21904,
+        "date": "2026-11-15 00:46:06+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "all good po",
+        "reactions": []
+    },
+    {
+        "id": 21903,
+        "date": "2026-11-15 00:45:52+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "scrolling lang me",
+        "reactions": []
+    },
+    {
+        "id": 21902,
+        "date": "2026-11-15 00:43:12+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiii",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21901,
+        "date": "2026-11-15 00:43:03+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "lemme know if okie ka na",
+        "reactions": []
+    },
+    {
+        "id": 21900,
+        "date": "2026-11-15 00:42:46+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "go po",
+        "reactions": []
+    },
+    {
+        "id": 21899,
+        "date": "2026-11-15 00:42:39+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "mag earphone lang me",
+        "reactions": []
+    },
+    {
+        "id": 21898,
+        "date": "2026-11-15 00:42:33+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy",
+        "reactions": []
+    },
+    {
+        "id": 21897,
+        "date": "2026-11-15 00:42:28+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "wala ka pa matinong kain aince resort e",
+        "reactions": []
+    },
+    {
+        "id": 21896,
+        "date": "2026-11-15 00:42:18+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nag aadjust rin",
+        "reactions": []
+    },
+    {
+        "id": 21895,
+        "date": "2026-11-15 00:42:14+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ahhh",
+        "reactions": []
+    },
+    {
+        "id": 21894,
+        "date": "2026-11-15 00:42:09+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "tapos nagrice me agad",
+        "reactions": []
+    },
+    {
+        "id": 21893,
+        "date": "2026-11-15 00:42:03+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dahil so hungry yata",
+        "reactions": []
+    },
+    {
+        "id": 21892,
+        "date": "2026-11-15 00:41:54+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nabigla rin tiyan ko",
+        "reactions": []
+    },
+    {
+        "id": 21891,
+        "date": "2026-11-15 00:41:46+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "idunno why",
+        "reactions": []
+    },
+    {
+        "id": 21890,
+        "date": "2026-11-15 00:41:42+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nahilo ako",
+        "reactions": []
+    },
+    {
+        "id": 21889,
+        "date": "2026-11-15 00:41:39+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "humiga muna me",
+        "reactions": []
+    },
+    {
+        "id": 21888,
+        "date": "2026-11-15 00:41:27+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieeee",
+        "reactions": []
+    },
+    {
+        "id": 21887,
+        "date": "2026-11-15 00:41:18+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo",
+        "reactions": []
+    },
+    {
+        "id": 21886,
+        "date": "2026-11-15 00:41:12+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yum burger?",
+        "reactions": []
+    },
+    {
+        "id": 21885,
+        "date": "2026-11-15 00:41:03+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nalimutan ko sa bag",
+        "reactions": []
+    },
+    {
+        "id": 21884,
+        "date": "2026-11-15 00:41:01+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiee okiee",
+        "reactions": []
+    },
+    {
+        "id": 21883,
+        "date": "2026-11-15 00:40:59+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kumain na ng yum burger from friday haha",
+        "reactions": []
+    },
+    {
+        "id": 21882,
+        "date": "2026-11-15 00:40:49+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nag sasalang lang ng labahin sa dryer",
+        "reactions": []
+    },
+    {
+        "id": 21881,
+        "date": "2026-11-15 00:40:43+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kumain ka na?",
+        "reactions": []
+    },
+    {
+        "id": 21880,
+        "date": "2026-11-15 00:40:37+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yupp",
+        "reactions": []
+    },
+    {
+        "id": 21879,
+        "date": "2026-11-15 00:40:19+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "how about u?",
+        "reactions": []
+    },
+    {
+        "id": 21878,
+        "date": "2026-11-15 00:39:58+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "i’m done",
+        "reactions": []
+    },
+    {
+        "id": 21876,
+        "date": "2026-11-14 23:34:01+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "thank you so much",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21875,
+        "date": "2026-11-14 23:33:51+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank youuu",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21874,
+        "date": "2026-11-14 23:33:39+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wait lang po",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21873,
+        "date": "2026-11-14 23:33:36+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opoo",
+        "reactions": []
+    },
+    {
+        "id": 21872,
+        "date": "2026-11-14 23:33:33+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "call na lang me",
+        "reactions": []
+    },
+    {
+        "id": 21871,
+        "date": "2026-11-14 23:33:26+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes po",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21870,
+        "date": "2026-11-14 23:33:14+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ay sya go na mag meal ka na dyan mag luto rin muna ako ng kung ano meron here",
+        "reactions": []
+    },
+    {
+        "id": 21869,
+        "date": "2026-11-14 23:32:46+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nagpalabok naman me nung nagising me nung hapon",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21868,
+        "date": "2026-11-14 23:32:41+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "go na eat ka na po",
+        "reactions": []
+    },
+    {
+        "id": 21867,
+        "date": "2026-11-14 23:32:31+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "grabe ka hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21866,
+        "date": "2026-11-14 23:32:28+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "oyyy",
+        "reactions": []
+    },
+    {
+        "id": 21865,
+        "date": "2026-11-14 23:32:21+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wait baba me, so hungry na rin last kain ko ng rice is yung luto mo pa",
+        "reactions": []
+    },
+    {
+        "id": 21864,
+        "date": "2026-11-14 23:31:53+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21863,
+        "date": "2026-11-14 23:31:51+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo",
+        "reactions": []
+    },
+    {
+        "id": 21862,
+        "date": "2026-11-14 23:31:49+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21861,
+        "date": "2026-11-14 23:31:46+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "u miss me??",
+        "reactions": []
+    },
+    {
+        "id": 21860,
+        "date": "2026-11-14 23:30:10+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "care for a call?",
+        "reactions": []
+    },
+    {
+        "id": 21859,
+        "date": "2026-11-14 23:30:01+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes po",
+        "reactions": []
+    },
+    {
+        "id": 21858,
+        "date": "2026-11-14 23:29:55+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "basta whenever u can, huwag na mag abala",
+        "reactions": []
+    },
+    {
+        "id": 21857,
+        "date": "2026-11-14 23:27:40+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "will check rin basta around this week Jo gawan kita ng mashroom soup haha",
+        "reactions": []
+    },
+    {
+        "id": 21856,
+        "date": "2026-11-14 23:27:12+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opoo",
+        "reactions": []
+    },
+    {
+        "id": 21855,
+        "date": "2026-11-14 23:26:36+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pwede naman next time if di kaya ha",
+        "reactions": []
+    },
+    {
+        "id": 21854,
+        "date": "2026-11-14 23:26:25+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "thank u",
+        "reactions": []
+    },
+    {
+        "id": 21853,
+        "date": "2026-11-14 23:24:57+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank youu",
+        "reactions": []
+    },
+    {
+        "id": 21852,
+        "date": "2026-11-14 23:24:54+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "alrighttt",
+        "reactions": []
+    },
+    {
+        "id": 21851,
+        "date": "2026-11-14 23:24:48+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiee if di hassle for you",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21850,
+        "date": "2026-11-14 23:24:33+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "may di pa nagawa e parang 2 packs pa natira",
+        "reactions": []
+    },
+    {
+        "id": 21849,
+        "date": "2026-11-14 23:24:15+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "is it okay if manggawa ako tom?",
+        "reactions": []
+    },
+    {
+        "id": 21848,
+        "date": "2026-11-14 23:24:13+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "so sad",
+        "reactions": []
+    },
+    {
+        "id": 21847,
+        "date": "2026-11-14 23:24:04+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "want ko lang asarin ka, para magaan yung pakiramdam that time",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21846,
+        "date": "2026-11-14 23:23:57+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "approved naman sa nakararami hhahaha",
+        "reactions": []
+    },
+    {
+        "id": 21845,
+        "date": "2026-11-14 23:23:47+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "mashroom soup",
+        "reactions": []
+    },
+    {
+        "id": 21844,
+        "date": "2026-11-14 23:23:43+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "di mo pala natikman mashroom",
+        "reactions": []
+    },
+    {
+        "id": 21843,
+        "date": "2026-11-14 23:23:31+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sobra",
+        "reactions": []
+    },
+    {
+        "id": 21842,
+        "date": "2026-11-14 23:23:16+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21841,
+        "date": "2026-11-14 23:23:14+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "mahal na mahal yan",
+        "reactions": []
+    },
+    {
+        "id": 21840,
+        "date": "2026-11-14 23:22:57+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "thank u",
+        "reactions": []
+    },
+    {
+        "id": 21839,
+        "date": "2026-11-14 23:20:13+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sorry buo buo rocksalt hahahaa",
+        "reactions": [
+            {
+                "reaction": "😁",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21838,
+        "date": "2026-11-14 23:19:47+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "and I want you na maging happy ka lang",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21837,
+        "date": "2026-11-14 23:19:34+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I just want you guys to have a good time",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21836,
+        "date": "2026-11-14 23:19:33+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "i know di rin madali for you na yung situation kahapon",
+        "reactions": []
+    },
+    {
+        "id": 21835,
+        "date": "2026-11-14 23:18:56+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "for cooking",
+        "reactions": []
+    },
+    {
+        "id": 21834,
+        "date": "2026-11-14 23:18:46+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dahil behave ka, and for trying to connect kay Jom",
+        "reactions": []
+    },
+    {
+        "id": 21833,
+        "date": "2026-11-14 23:18:23+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "whyyy",
+        "reactions": []
+    },
+    {
+        "id": 21832,
+        "date": "2026-11-14 23:18:11+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "thank u sobra",
+        "reactions": []
+    },
+    {
+        "id": 21831,
+        "date": "2026-11-14 23:17:50+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "alam naman na natin mga expectations na mangyayari",
+        "reactions": []
+    },
+    {
+        "id": 21830,
+        "date": "2026-11-14 23:17:39+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "no nagusap naman na us about nung event",
+        "reactions": []
+    },
+    {
+        "id": 21829,
+        "date": "2026-11-14 23:17:13+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sorry",
+        "reactions": []
+    },
+    {
+        "id": 21828,
+        "date": "2026-11-14 23:14:41+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha laging meron at merong antok na dadating",
+        "reactions": []
+    },
+    {
+        "id": 21827,
+        "date": "2026-11-14 23:14:23+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "parang ganun na nga di nga makalapit e",
+        "reactions": []
+    },
+    {
+        "id": 21826,
+        "date": "2026-11-14 23:14:22+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kapag nasa higaan di nauubos tulog ko",
+        "reactions": []
+    },
+    {
+        "id": 21825,
+        "date": "2026-11-14 23:14:07+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nakaidlip hahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21824,
+        "date": "2026-11-14 23:14:02+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21823,
+        "date": "2026-11-14 23:13:49+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "na para bang di matagal magkasama kahapon and friday",
+        "reactions": []
+    },
+    {
+        "id": 21822,
+        "date": "2026-11-14 23:10:38+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "how about you what're you doing now ?",
+        "reactions": []
+    },
+    {
+        "id": 21821,
+        "date": "2026-11-14 23:03:09+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "But I do miss you po.",
+        "reactions": []
+    },
+    {
+        "id": 21820,
+        "date": "2026-11-14 23:03:01+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hmm okiii po",
+        "reactions": []
+    },
+    {
+        "id": 21819,
+        "date": "2026-11-14 23:02:44+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "maligo muna siguro hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21818,
+        "date": "2026-11-14 23:02:37+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "i don't know pa for now siguro",
+        "reactions": []
+    },
+    {
+        "id": 21817,
+        "date": "2026-11-14 23:02:24+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ang impacting lang talaga  g mga recent na nangyayarii",
+        "reactions": []
+    },
+    {
+        "id": 21816,
+        "date": "2026-11-14 23:02:14+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "what do u want now?",
+        "reactions": []
+    },
+    {
+        "id": 21815,
+        "date": "2026-11-14 23:01:58+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank youu",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21814,
+        "date": "2026-11-14 23:01:51+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes po",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21813,
+        "date": "2026-11-14 23:01:39+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "this is just a phase",
+        "reactions": []
+    },
+    {
+        "id": 21812,
+        "date": "2026-11-14 23:01:30+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes po",
+        "reactions": []
+    },
+    {
+        "id": 21811,
+        "date": "2026-11-14 22:59:21+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "remind yourself na magiging okay rin lahat",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21810,
+        "date": "2026-11-14 22:58:48+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiii po",
+        "reactions": []
+    },
+    {
+        "id": 21809,
+        "date": "2026-11-14 22:50:23+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okies po",
+        "reactions": []
+    },
+    {
+        "id": 21808,
+        "date": "2026-11-14 22:50:17+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "may mga negatives na emotion but kaya naman",
+        "reactions": []
+    },
+    {
+        "id": 21807,
+        "date": "2026-11-14 22:50:14+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha ask ko later sa call",
+        "reactions": []
+    },
+    {
+        "id": 21806,
+        "date": "2026-11-14 22:50:01+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "but generally fine siguro",
+        "reactions": []
+    },
+    {
+        "id": 21805,
+        "date": "2026-11-14 22:49:51+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "bhahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21804,
+        "date": "2026-11-14 22:49:48+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "still wondering ano yung message kanina",
+        "reactions": []
+    },
+    {
+        "id": 21803,
+        "date": "2026-11-14 22:49:40+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes",
+        "reactions": []
+    },
+    {
+        "id": 21802,
+        "date": "2026-11-14 22:49:21+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "in general?",
+        "reactions": []
+    },
+    {
+        "id": 21801,
+        "date": "2026-11-14 22:49:13+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yup we'll see sa 1st week",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21800,
+        "date": "2026-11-14 22:49:11+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "how are u",
+        "reactions": []
+    },
+    {
+        "id": 21799,
+        "date": "2026-11-14 22:49:01+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "anyway",
+        "reactions": []
+    },
+    {
+        "id": 21798,
+        "date": "2026-11-14 22:48:56+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "we’ll see",
+        "reactions": []
+    },
+    {
+        "id": 21797,
+        "date": "2026-11-14 22:48:42+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee okiee",
+        "reactions": []
+    },
+    {
+        "id": 21796,
+        "date": "2026-11-14 22:46:29+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "para di hassle for a day or two  lang naman",
+        "reactions": []
+    },
+    {
+        "id": 21795,
+        "date": "2026-11-14 22:45:55+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or baka mag rent ako ng motor",
+        "reactions": []
+    },
+    {
+        "id": 21794,
+        "date": "2026-11-14 22:45:44+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yup for now yung travel muna option ko hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21793,
+        "date": "2026-11-14 22:45:21+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee kapag na-open na lang",
+        "reactions": []
+    },
+    {
+        "id": 21792,
+        "date": "2026-11-14 22:45:14+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero di pa ako ni kausap ni mitzi about that e",
+        "reactions": []
+    },
+    {
+        "id": 21791,
+        "date": "2026-11-14 22:44:58+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "if pwede maki join is why not",
+        "reactions": []
+    },
+    {
+        "id": 21790,
+        "date": "2026-11-14 22:44:40+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "i mean ayaw mo yung plan nila mitzi?",
+        "reactions": []
+    },
+    {
+        "id": 21789,
+        "date": "2026-11-14 22:44:16+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sayang rin kais effort ni Pau if di makapunta",
+        "reactions": []
+    },
+    {
+        "id": 21788,
+        "date": "2026-11-14 22:44:03+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "well if wala other option ihh",
+        "reactions": []
+    },
+    {
+        "id": 21787,
+        "date": "2026-11-14 22:43:54+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di ba yon hassle for u?",
+        "reactions": []
+    },
+    {
+        "id": 21786,
+        "date": "2026-11-14 22:43:46+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "like bus or kung ano mn transpo",
+        "reactions": []
+    },
+    {
+        "id": 21785,
+        "date": "2026-11-14 22:43:36+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ako is baka on the day na me mag byahe",
+        "reactions": []
+    },
+    {
+        "id": 21784,
+        "date": "2026-11-14 22:43:28+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ohh ok ok",
+        "reactions": []
+    },
+    {
+        "id": 21783,
+        "date": "2026-11-14 22:42:43+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes yes",
+        "reactions": []
+    },
+    {
+        "id": 21782,
+        "date": "2026-11-14 22:41:44+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "let's see if sino mga pupunta if may masasabayan ka",
+        "reactions": []
+    },
+    {
+        "id": 21781,
+        "date": "2026-11-14 22:41:18+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kasi wala si Jom?",
+        "reactions": []
+    },
+    {
+        "id": 21780,
+        "date": "2026-11-14 22:41:12+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "so not sure ka na if makapunta?",
+        "reactions": []
+    },
+    {
+        "id": 21779,
+        "date": "2026-11-14 22:40:59+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "idunno",
+        "reactions": []
+    },
+    {
+        "id": 21778,
+        "date": "2026-11-14 22:40:55+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "after work diretso na sana ron",
+        "reactions": []
+    },
+    {
+        "id": 21777,
+        "date": "2026-11-14 22:40:38+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ok ok",
+        "reactions": []
+    },
+    {
+        "id": 21776,
+        "date": "2026-11-14 22:40:31+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "as guest",
+        "reactions": []
+    },
+    {
+        "id": 21775,
+        "date": "2026-11-14 22:40:30+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kung saan magsstay",
+        "reactions": []
+    },
+    {
+        "id": 21774,
+        "date": "2026-11-14 22:40:29+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ahh getsss",
+        "reactions": []
+    },
+    {
+        "id": 21773,
+        "date": "2026-11-14 22:40:20+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "panong kukuning place po?",
+        "reactions": []
+    },
+    {
+        "id": 21772,
+        "date": "2026-11-14 22:40:08+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero change plans na yata",
+        "reactions": []
+    },
+    {
+        "id": 21771,
+        "date": "2026-11-14 22:39:58+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sila Cai din",
+        "reactions": []
+    },
+    {
+        "id": 21770,
+        "date": "2026-11-14 22:39:49+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eh plan kasi before kasama siya sa kukunin naming place nila Mitzi",
+        "reactions": []
+    },
+    {
+        "id": 21769,
+        "date": "2026-11-14 22:39:15+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wala pala siya niyan",
+        "reactions": []
+    },
+    {
+        "id": 21768,
+        "date": "2026-11-14 22:39:09+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiii",
+        "reactions": []
+    },
+    {
+        "id": 21767,
+        "date": "2026-11-14 22:39:04+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "remind ko ulit jom about that",
+        "reactions": []
+    },
+    {
+        "id": 21766,
+        "date": "2026-11-14 22:38:23+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yess",
+        "reactions": []
+    },
+    {
+        "id": 21765,
+        "date": "2026-11-14 22:38:18+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "December 5",
+        "reactions": []
+    },
+    {
+        "id": 21764,
+        "date": "2026-11-14 22:38:17+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ahh 5",
+        "reactions": []
+    },
+    {
+        "id": 21763,
+        "date": "2026-11-14 22:38:10+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "when ulit yon",
+        "reactions": []
+    },
+    {
+        "id": 21762,
+        "date": "2026-11-14 22:38:00+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "idunno",
+        "reactions": []
+    },
+    {
+        "id": 21761,
+        "date": "2026-11-14 22:35:13+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "https://paulojessawedding.my.canva.site/",
+        "reactions": []
+    },
+    {
+        "id": 21760,
+        "date": "2026-11-14 22:35:10+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "di ka punta?",
+        "reactions": []
+    },
+    {
+        "id": 21759,
+        "date": "2026-11-14 22:34:43+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no",
+        "reactions": []
+    },
+    {
+        "id": 21758,
+        "date": "2026-11-14 22:33:48+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "speaking of nag fill up na kayo?",
+        "reactions": []
+    },
+    {
+        "id": 21757,
+        "date": "2026-11-14 22:33:34+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "may kasal pa nga palani Paulo ng December 5 ahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21756,
+        "date": "2026-11-14 22:33:19+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "2nd week?",
+        "reactions": []
+    },
+    {
+        "id": 21755,
+        "date": "2026-11-14 22:32:31+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiii okiii",
+        "reactions": []
+    },
+    {
+        "id": 21754,
+        "date": "2026-11-14 22:32:24+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "like around December",
+        "reactions": []
+    },
+    {
+        "id": 21753,
+        "date": "2026-11-14 22:32:15+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiii",
+        "reactions": []
+    },
+    {
+        "id": 21752,
+        "date": "2026-11-14 22:32:13+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ohhhh",
+        "reactions": []
+    },
+    {
+        "id": 21751,
+        "date": "2026-11-14 22:31:16+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "para rin di mapansin in a way ng circle",
+        "reactions": []
+    },
+    {
+        "id": 21750,
+        "date": "2026-11-14 22:31:06+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kasi by december diba mostly shutdown na mas less pagkikita and all",
+        "reactions": []
+    },
+    {
+        "id": 21749,
+        "date": "2026-11-14 22:30:38+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why naman",
+        "reactions": []
+    },
+    {
+        "id": 21748,
+        "date": "2026-11-14 22:30:31+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "like after nung mga social gatherings",
+        "reactions": []
+    },
+    {
+        "id": 21747,
+        "date": "2026-11-14 22:30:29+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yeah",
+        "reactions": []
+    },
+    {
+        "id": 21746,
+        "date": "2026-11-14 22:30:22+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I mean di naman after after",
+        "reactions": []
+    },
+    {
+        "id": 21745,
+        "date": "2026-11-14 22:30:12+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why after",
+        "reactions": []
+    },
+    {
+        "id": 21744,
+        "date": "2026-11-14 22:29:52+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero oks ba after yep nalan?",
+        "reactions": []
+    },
+    {
+        "id": 21743,
+        "date": "2026-11-14 22:29:16+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "as long aa it's a yes",
+        "reactions": []
+    },
+    {
+        "id": 21742,
+        "date": "2026-11-14 22:28:59+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yup",
+        "reactions": []
+    },
+    {
+        "id": 21741,
+        "date": "2026-11-14 22:28:55+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero idunno when",
+        "reactions": []
+    },
+    {
+        "id": 21740,
+        "date": "2026-11-14 22:28:44+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21739,
+        "date": "2026-11-14 22:25:31+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "will you be giving me the chance to meet one last time para sabihin lahat lahat sa isa't isa ?",
+        "reactions": []
+    },
+    {
+        "id": 21738,
+        "date": "2026-11-14 22:24:50+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "but at least answer me this",
+        "reactions": []
+    },
+    {
+        "id": 21737,
+        "date": "2026-11-14 22:23:31+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21736,
+        "date": "2026-11-14 22:23:23+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ang arte niyan",
+        "reactions": []
+    },
+    {
+        "id": 21735,
+        "date": "2026-11-14 22:22:09+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "waaaaa",
+        "reactions": []
+    },
+    {
+        "id": 21734,
+        "date": "2026-11-14 22:22:09+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21733,
+        "date": "2026-11-14 22:21:50+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha",
+        "reactions": []
+    },
+    {
+        "id": 21732,
+        "date": "2026-11-14 22:21:45+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sleep ulit",
+        "reactions": []
+    },
+    {
+        "id": 21731,
+        "date": "2026-11-14 22:19:09+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kakagising lang po",
+        "reactions": []
+    },
+    {
+        "id": 21730,
+        "date": "2026-11-14 22:18:59+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sleep na muna",
+        "reactions": []
+    },
+    {
+        "id": 21729,
+        "date": "2026-11-14 22:18:51+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eme",
+        "reactions": []
+    },
+    {
+        "id": 21728,
+        "date": "2026-11-14 22:17:43+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Jo naman",
+        "reactions": []
+    },
+    {
+        "id": 21727,
+        "date": "2026-11-14 22:17:19+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pag gising ko wala na lahat",
+        "reactions": []
+    },
+    {
+        "id": 21726,
+        "date": "2026-11-14 22:17:13+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "andayaaaa naka sleep nga me while naka open tg",
+        "reactions": []
+    },
+    {
+        "id": 21725,
+        "date": "2026-11-14 22:16:56+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sineen na eh",
+        "reactions": []
+    },
+    {
+        "id": 21724,
+        "date": "2026-11-14 22:16:48+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "naurrrr",
+        "reactions": []
+    },
+    {
+        "id": 21723,
+        "date": "2026-11-14 22:16:15+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pleaseeee",
+        "reactions": []
+    },
+    {
+        "id": 21722,
+        "date": "2026-11-14 22:16:06+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "bawal na sabihin",
+        "reactions": []
+    },
+    {
+        "id": 21721,
+        "date": "2026-11-14 22:16:04+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha bitin",
+        "reactions": []
+    },
+    {
+        "id": 21720,
+        "date": "2026-11-14 22:15:59+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yan ka na naman.",
+        "reactions": []
+    },
+    {
+        "id": 21719,
+        "date": "2026-11-14 22:15:51+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "secret",
+        "reactions": []
+    },
+    {
+        "id": 21718,
+        "date": "2026-11-14 22:15:46+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ano yooon?",
+        "reactions": []
+    },
+    {
+        "id": 21717,
+        "date": "2026-11-14 22:15:42+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "waaaaah",
+        "reactions": []
+    },
+    {
+        "id": 21716,
+        "date": "2026-11-14 22:15:21+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "naka open lang tg ko",
+        "reactions": []
+    },
+    {
+        "id": 21715,
+        "date": "2026-11-14 22:15:20+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eme",
+        "reactions": []
+    },
+    {
+        "id": 21714,
+        "date": "2026-11-14 22:15:10+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ulit",
+        "reactions": []
+    },
+    {
+        "id": 21713,
+        "date": "2026-11-14 22:15:08+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nakaseen eh",
+        "reactions": []
+    },
+    {
+        "id": 21712,
+        "date": "2026-11-14 22:15:06+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nakatulog ako",
+        "reactions": []
+    },
+    {
+        "id": 21711,
+        "date": "2026-11-14 22:14:59+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaa",
+        "reactions": []
+    },
+    {
+        "id": 21710,
+        "date": "2026-11-14 22:14:57+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "noo",
+        "reactions": []
+    },
+    {
+        "id": 21709,
+        "date": "2026-11-14 22:14:53+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di mo ba nakita?",
+        "reactions": []
+    },
+    {
+        "id": 21708,
+        "date": "2026-11-14 22:14:45+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "wala langsss",
+        "reactions": []
+    },
+    {
+        "id": 21707,
+        "date": "2026-11-14 22:14:40+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "reactions": []
+    },
+    {
+        "id": 21706,
+        "date": "2026-11-14 22:14:37+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "feel ko may di pa na sasagot haHh",
+        "reactions": []
+    },
+    {
+        "id": 21705,
+        "date": "2026-11-14 22:14:28+00:00",
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why",
+        "reactions": []
+    },
+    {
+        "id": 21704,
+        "date": "2026-11-14 22:14:18+00:00",
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "we good na ba sa usap?",
+        "reactions": []
+    }
+]
