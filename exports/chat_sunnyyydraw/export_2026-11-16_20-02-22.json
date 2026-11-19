@@ -1,0 +1,28 @@
+[
+    {
+        "id": 22775,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "parang kaya ko na mag release hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 12:02:15",
+        "reactions": []
+    },
+    {
+        "id": 22774,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "next time pwede sama sa ligo nalang?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22771,
+        "date": "2026-11-16 12:01:58",
+        "reactions": []
+    }
+]

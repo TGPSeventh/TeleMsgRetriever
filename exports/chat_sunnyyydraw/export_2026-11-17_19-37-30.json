@@ -1,0 +1,80 @@
+[
+    {
+        "id": 22966,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pinakita nya kay Cai daw oks naman daw",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:37:30",
+        "reactions": []
+    },
+    {
+        "id": 22965,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nag msg si mitzi e nung nakita nya invitation ni pau",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22961,
+        "date": "2026-11-17 11:37:21",
+        "reactions": []
+    },
+    {
+        "id": 22964,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "for my baby pala",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:37:11",
+        "reactions": []
+    },
+    {
+        "id": 22963,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiiii",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:37:03",
+        "reactions": []
+    },
+    {
+        "id": 22962,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22960,
+        "date": "2026-11-17 11:37:02",
+        "reactions": []
+    },
+    {
+        "id": 22961,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wow",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22959,
+        "date": "2026-11-17 11:37:01",
+        "reactions": []
+    }
+]

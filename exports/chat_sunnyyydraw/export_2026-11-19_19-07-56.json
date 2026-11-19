@@ -1,0 +1,80 @@
+[
+    {
+        "id": 24047,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "56 ata",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:07:54",
+        "reactions": []
+    },
+    {
+        "id": 24046,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "we?? baka binabawasan mo ha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24043,
+        "date": "2026-11-19 11:07:49",
+        "reactions": []
+    },
+    {
+        "id": 24045,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hindi pa Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:07:44",
+        "reactions": []
+    },
+    {
+        "id": 24044,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "lumabas ka na?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:07:34",
+        "reactions": []
+    },
+    {
+        "id": 24043,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "move it is 50 pesos",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:07:33",
+        "reactions": []
+    },
+    {
+        "id": 24042,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "room",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:07:25",
+        "reactions": []
+    }
+]

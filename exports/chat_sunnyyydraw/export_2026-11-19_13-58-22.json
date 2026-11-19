@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23861,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ohhh ok ok po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:58:22",
+        "reactions": []
+    },
+    {
+        "id": 23860,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kung saan tayo nung 21",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:58:08",
+        "reactions": []
+    },
+    {
+        "id": 23859,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:57:59",
+        "reactions": []
+    }
+]

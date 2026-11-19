@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23282,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "mag 4 na ih",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:26:05",
+        "reactions": []
+    },
+    {
+        "id": 23281,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "body clock n rin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23279,
+        "date": "2026-11-17 19:25:56",
+        "reactions": []
+    },
+    {
+        "id": 23280,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiii Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:25:47",
+        "reactions": []
+    },
+    {
+        "id": 23279,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why so early mo naman bi magising",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:25:44",
+        "reactions": []
+    }
+]

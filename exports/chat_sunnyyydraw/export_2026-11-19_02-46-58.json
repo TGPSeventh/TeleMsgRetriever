@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23512,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "iz ok",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:46:45",
+        "reactions": []
+    },
+    {
+        "id": 23511,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nakatulog",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:46:32",
+        "reactions": []
+    }
+]

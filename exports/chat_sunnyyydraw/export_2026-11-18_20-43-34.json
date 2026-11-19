@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23476,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okii Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:43:32",
+        "reactions": []
+    },
+    {
+        "id": 23475,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kakatapos ko lang cut nails ni Gab",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:43:25",
+        "reactions": []
+    },
+    {
+        "id": 23474,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "gooo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:43:12",
+        "reactions": []
+    }
+]

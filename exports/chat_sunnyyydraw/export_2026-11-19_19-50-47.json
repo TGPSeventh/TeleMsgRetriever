@@ -1,0 +1,54 @@
+[
+    {
+        "id": 24156,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "spam movies ako nung time na yun e",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:50:43",
+        "reactions": []
+    },
+    {
+        "id": 24155,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kasi 45% si rob cinema hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:50:34",
+        "reactions": []
+    },
+    {
+        "id": 24154,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "solo po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24152,
+        "date": "2026-11-19 11:50:27",
+        "reactions": []
+    },
+    {
+        "id": 24153,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eat mabuti",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24151,
+        "date": "2026-11-19 11:50:21",
+        "reactions": []
+    }
+]

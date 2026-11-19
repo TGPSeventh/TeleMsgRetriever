@@ -1,0 +1,67 @@
+[
+    {
+        "id": 24302,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baka magkababy tayo bigla eh",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:27:50",
+        "reactions": []
+    },
+    {
+        "id": 24301,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "thank u",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:27:38",
+        "reactions": []
+    },
+    {
+        "id": 24300,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okayyyy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:27:35",
+        "reactions": []
+    },
+    {
+        "id": 24299,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sure naman ako Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:27:33",
+        "reactions": []
+    },
+    {
+        "id": 24298,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yup po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:27:28",
+        "reactions": []
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "id": 24110,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "para makamove forward",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:34:47",
+        "reactions": []
+    },
+    {
+        "id": 24109,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pwede rin naman na as in no talk",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:34:42",
+        "reactions": []
+    },
+    {
+        "id": 24108,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sorry Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:34:34",
+        "reactions": []
+    },
+    {
+        "id": 24107,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes po tanggap ko na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24104,
+        "date": "2026-11-19 11:34:28",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

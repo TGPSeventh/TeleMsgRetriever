@@ -1,0 +1,46 @@
+[
+    {
+        "id": 23385,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero yan see you Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:25:07",
+        "reactions": []
+    },
+    {
+        "id": 23384,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ayoko mag bye hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:25:01",
+        "reactions": [
+            {
+                "reaction": "😁",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23383,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "byeeee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:24:48",
+        "reactions": []
+    }
+]

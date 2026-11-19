@@ -1,0 +1,93 @@
+[
+    {
+        "id": 23534,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I loved you po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:51:32",
+        "reactions": []
+    },
+    {
+        "id": 23533,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di pwede",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:51:29",
+        "reactions": []
+    },
+    {
+        "id": 23532,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:51:25",
+        "reactions": []
+    },
+    {
+        "id": 23531,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha sowwy Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:51:25",
+        "reactions": []
+    },
+    {
+        "id": 23530,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "GUMAGANYAN HA",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:51:18",
+        "reactions": []
+    },
+    {
+        "id": 23529,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "HAHAHAHAH",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:51:07",
+        "reactions": []
+    },
+    {
+        "id": 23528,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha ok ok",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23526,
+        "date": "2026-11-18 18:51:07",
+        "reactions": []
+    }
+]

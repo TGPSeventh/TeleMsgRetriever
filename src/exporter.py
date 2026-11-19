@@ -210,7 +210,7 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
 
         .bubble-avatar {{ width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 11px; flex-shrink: 0; color: white; margin-bottom: 2px; }}
         
-        .bubble {{ background-color: var(--incoming-bubble); padding: 6px 10px 4px 10px; border-radius: 12px 12px 12px 4px; max-width: 80%; position: relative; box-shadow: 0 1px 2px rgba(0,0,0,0.2); min-width: 200px; }}
+        .bubble {{ background-color: var(--incoming-bubble); padding: 6px 10px 4px 10px; border-radius: 12px 12px 12px 4px; max-width: 80%; position: relative; box-shadow: 0 1px 2px rgba(0,0,0,0.2); min-width: 240px; }}
         .message-row.outbound .bubble {{ background-color: var(--outgoing-bubble); border-radius: 12px 12px 4px 12px; }}
 
         .sender-name {{ font-size: 12px; font-weight: 600; margin-bottom: 2px; }}
@@ -222,8 +222,19 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
         .sticker-container {{ margin-bottom: 4px; max-width: 145px; }}
         .sticker-container img, .sticker-container video {{ width: 100%; height: auto; display: block; border-radius: 8px; background: transparent; }}
 
-        .audio-container {{ margin-bottom: 4px; width: 240px; }}
-        .audio-container audio {{ width: 100%; height: 36px; border-radius: 6px; }}
+        /* Custom Telegram Voice Note Styling */
+        .voice-player {{ display: flex; align-items: center; gap: 10px; padding: 4px 0; width: 250px; }}
+        .voice-play-btn {{ width: 38px; height: 38px; border-radius: 50%; background-color: #ffffff; color: #2b5278; border: none; display: flex; align-items: center; justify-content: center; cursor: pointer; flex-shrink: 0; box-shadow: 0 2px 4px rgba(0,0,0,0.15); transition: transform 0.1s; }}
+        .voice-play-btn:active {{ transform: scale(0.95); }}
+        .voice-play-btn svg {{ width: 14px; height: 14px; fill: currentColor; margin-left: 2px; }}
+        .message-row.outbound .voice-play-btn {{ color: #2b5278; }}
+        .message-row.incoming .voice-play-btn {{ color: #5288c1; }}
+
+        .voice-content-side {{ flex: 1; display: flex; flex-direction: column; gap: 4px; min-width: 0; }}
+        .voice-waveform {{ display: flex; align-items: center; gap: 2px; height: 24px; cursor: pointer; }}
+        .wave-bar {{ width: 2.5px; background-color: rgba(255, 255, 255, 0.35); border-radius: 2px; transition: background-color 0.2s; }}
+        .voice-meta-row {{ display: flex; justify-content: space-between; align-items: center; font-size: 11px; color: var(--text-secondary); }}
+        .message-row.outbound .voice-meta-row {{ color: #9bc2e6; }}
 
         .call-content {{ display: flex; justify-content: space-between; align-items: center; gap: 12px; }}
         .call-text-side {{ display: flex; flex-direction: column; gap: 2px; }}
@@ -339,6 +350,12 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
             }}
         }}
 
+        // Helper to generate pseudo-random waveform bar heights for voice notes
+        function generateWaveformBars() {{
+            const heights = [6, 12, 18, 10, 22, 14, 8, 20, 16, 24, 10, 18, 12, 22, 8, 16, 20, 12, 14, 22, 8, 18, 10, 24, 12, 16, 8, 20, 14];
+            return heights.map(h => `<div class="wave-bar" style="height: ${{h}}px;"></div>`).join('');
+        }}
+
         function renderMessages(messages) {{
             container.innerHTML = '';
             countLabel.textContent = `${{messages.length}} messages`;
@@ -405,7 +422,25 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
                     }} else if (ext === 'tgs') {{
                         contentHtml = `<div class="sticker-container" style="font-size: 11px; font-style: italic; color: var(--text-secondary); padding: 4px;">[Animated TGS Sticker]</div>`;
                     }} else if (msg.is_voice || ext === 'ogg' || ext === 'mp3' || ext === 'wav' || ext === 'm4a') {{
-                        contentHtml = `<div class="audio-container"><audio controls preload="none"><source src="${{msg.media_path}}"></audio></div>`;
+                        // Custom Telegram Voice Message UI with Waveform Player Logic
+                        const audioId = 'audio-' + msg.id;
+                        contentHtml = `
+                            <div class="voice-player">
+                                <audio id="${{audioId}}" src="${{msg.media_path}}" preload="none"></audio>
+                                <button class="voice-play-btn" onclick="toggleAudio('${{audioId}}', this)">
+                                    <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                                </button>
+                                <div class="voice-content-side">
+                                    <div class="voice-waveform" onclick="seekAudio(event, '${{audioId}}')">
+                                        ${{generateWaveformBars()}}
+                                    </div>
+                                    <div class="voice-meta-row">
+                                        <span id="time-${{audioId}}">0:00</span>
+                                        <span>Voice message</span>
+                                    </div>
+                                </div>
+                            </div>
+                        `;
                     }} else {{
                         contentHtml = `<div class="message-media"><img src="${{msg.media_path}}" loading="lazy" onclick="window.open(this.src, '_blank')"></div>`;
                     }}
@@ -442,6 +477,49 @@ def _generate_html_file(data, filename, chat_title="Telegram Export", my_user_id
                 container.appendChild(row);
             }});
             container.scrollTop = container.scrollHeight;
+        }}
+
+        // Audio Player Controls & Interactive Waveform Logic
+        function toggleAudio(audioId, btn) {{
+            const audio = document.getElementById(audioId);
+            const timeLabel = document.getElementById('time-' + audioId);
+            
+            if (audio.paused) {{
+                // Pause all other playing audio elements
+                document.querySelectorAll('audio').forEach(a => {{
+                    if (a.id !== audioId && !a.paused) {{
+                        a.pause();
+                        const otherBtn = document.querySelector(`button[onclick*="${{a.id}}"]`);
+                        if (otherBtn) otherBtn.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
+                    }}
+                }});
+
+                audio.play();
+                btn.innerHTML = '<svg viewBox="0 0 24 24" style="margin-left: 0;"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>'; // Pause icon
+            }} else {{
+                audio.pause();
+                btn.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>'; // Play icon
+            }}
+
+            audio.ontimeupdate = () => {{
+                const mins = Math.floor(audio.currentTime / 60);
+                const secs = Math.floor(audio.currentTime % 60);
+                timeLabel.textContent = `${{mins}}:${{secs < 10 ? '0' : ''}}${{secs}}`;
+            }};
+
+            audio.onended = () => {{
+                btn.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
+                timeLabel.textContent = '0:00';
+            }};
+        }}
+
+        function seekAudio(event, audioId) {{
+            const audio = document.getElementById(audioId);
+            if (!audio.duration) return;
+            const rect = event.currentTarget.getBoundingClientRect();
+            const clickX = event.clientX - rect.left;
+            const width = rect.width;
+            audio.currentTime = (clickX / width) * audio.duration;
         }}
 
         function escapeHtml(text) {{

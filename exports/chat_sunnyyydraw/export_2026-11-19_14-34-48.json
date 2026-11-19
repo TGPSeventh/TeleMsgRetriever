@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23876,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:34:25",
+        "reactions": []
+    },
+    {
+        "id": 23875,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "book na kita",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:34:23",
+        "reactions": []
+    },
+    {
+        "id": 23874,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:34:16",
+        "reactions": []
+    }
+]

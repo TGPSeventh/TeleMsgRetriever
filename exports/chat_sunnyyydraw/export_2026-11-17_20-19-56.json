@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23154,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Okies Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:19:44",
+        "reactions": []
+    },
+    {
+        "id": 23153,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "iiwasan na kita bi para may matapos ka",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:19:35",
+        "reactions": []
+    },
+    {
+        "id": 23152,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Yes po\n\nRunning pa naman sa backend yung code ko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:19:30",
+        "reactions": []
+    }
+]

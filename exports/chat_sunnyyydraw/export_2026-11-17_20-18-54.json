@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23151,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "typing ka na lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:18:49",
+        "reactions": []
+    },
+    {
+        "id": 23150,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi magkausap us",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:18:43",
+        "reactions": []
+    },
+    {
+        "id": 23149,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di ka na nakakagawa riyan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:18:35",
+        "reactions": []
+    },
+    {
+        "id": 23148,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "k",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23147,
+        "date": "2026-11-17 12:18:26",
+        "reactions": []
+    }
+]

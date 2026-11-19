@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23010,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kung kanino mainlove",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:46:09",
+        "reactions": []
+    },
+    {
+        "id": 23009,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Ok ok hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:46:04",
+        "reactions": []
+    },
+    {
+        "id": 23008,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kahit ano",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23007,
+        "date": "2026-11-17 11:45:55",
+        "reactions": []
+    },
+    {
+        "id": 23007,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Spanish nga pala haha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:45:47",
+        "reactions": []
+    }
+]

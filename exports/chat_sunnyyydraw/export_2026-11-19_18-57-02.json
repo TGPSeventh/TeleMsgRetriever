@@ -1,0 +1,93 @@
+[
+    {
+        "id": 24028,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "want mo na magbye ha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:57:01",
+        "reactions": []
+    },
+    {
+        "id": 24027,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okay sige half",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:57:00",
+        "reactions": []
+    },
+    {
+        "id": 24026,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "jo naman pasaway",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:56:55",
+        "reactions": []
+    },
+    {
+        "id": 24025,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "it's okay Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:56:48",
+        "reactions": []
+    },
+    {
+        "id": 24024,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway mo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:56:47",
+        "reactions": []
+    },
+    {
+        "id": 24023,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dami mo gastos today",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:56:42",
+        "reactions": []
+    },
+    {
+        "id": 24022,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okay lang ba na ako na yun Jo?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:56:30",
+        "reactions": []
+    }
+]

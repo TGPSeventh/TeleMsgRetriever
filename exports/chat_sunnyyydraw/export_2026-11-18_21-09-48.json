@@ -1,0 +1,46 @@
+[
+    {
+        "id": 23492,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "alam yata ng tiktok ko pinagdadaanan ko hahahah",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:09:42",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23491,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "https://vt.tiktok.com/ZSp7nu2pS/",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:09:28",
+        "reactions": []
+    },
+    {
+        "id": 23490,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23488,
+        "date": "2026-11-18 13:09:25",
+        "reactions": []
+    }
+]

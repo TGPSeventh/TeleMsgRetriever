@@ -1,0 +1,72 @@
+[
+    {
+        "id": 24006,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "mga 10 ako alis",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:50:59",
+        "reactions": []
+    },
+    {
+        "id": 24005,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "well first station naman",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:50:59",
+        "reactions": []
+    },
+    {
+        "id": 24004,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi baka masikip",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:50:53",
+        "reactions": []
+    },
+    {
+        "id": 24003,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "huwag lang sabay sa time ng normal ppl",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:50:48",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24002,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "don't worry Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:50:40",
+        "reactions": []
+    }
+]

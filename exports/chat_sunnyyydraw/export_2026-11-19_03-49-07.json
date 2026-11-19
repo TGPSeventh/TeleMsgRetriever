@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23598,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or maaga pa masyado?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:48:46",
+        "reactions": []
+    },
+    {
+        "id": 23597,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "anyway booking ka na papasok?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:48:40",
+        "reactions": []
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24159,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:51:17",
+        "reactions": []
+    },
+    {
+        "id": 24158,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or dahil mainit rin nung time na yon kaya kapagod",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:51:12",
+        "reactions": []
+    },
+    {
+        "id": 24157,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "grabe tanda mo yung nilakad natin edsa resi? sobrang lapit now hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24153,
+        "date": "2026-11-19 11:51:02",
+        "reactions": []
+    }
+]

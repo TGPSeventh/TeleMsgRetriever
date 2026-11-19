@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23717,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "oki po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 02:48:59",
+        "reactions": []
+    },
+    {
+        "id": 23716,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "here na lang ikaw wait",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23710,
+        "date": "2026-11-19 02:48:53",
+        "reactions": []
+    }
+]

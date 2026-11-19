@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23264,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 13:12:58",
+        "reactions": []
+    },
+    {
+        "id": 23263,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "anyway, charge your phone",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 13:12:40",
+        "reactions": []
+    }
+]

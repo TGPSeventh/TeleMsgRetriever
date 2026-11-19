@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23072,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kapag may ibang kasama, tatawagin ko lang name niya and dadaan sa tingin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:03:43",
+        "reactions": []
+    },
+    {
+        "id": 23071,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "want ko kasi ng kaming dalawa lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:03:21",
+        "reactions": []
+    }
+]

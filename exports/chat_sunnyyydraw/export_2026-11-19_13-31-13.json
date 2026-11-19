@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23834,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "baka gang late lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:31:00",
+        "reactions": []
+    },
+    {
+        "id": 23833,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di ka ba uuwi? magstay ka sa nice?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:30:43",
+        "reactions": []
+    }
+]

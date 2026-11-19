@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24132,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "then we'll do this Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24130,
+        "date": "2026-11-19 11:39:06",
+        "reactions": []
+    },
+    {
+        "id": 24131,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "following days is as Sandra and Genson nalang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24128,
+        "date": "2026-11-19 11:38:54",
+        "reactions": []
+    },
+    {
+        "id": 24130,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "idunno ngayon kasi i feel like di mawawala yung care ko sa’yo and yung love. mababawasan siguro after many years",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:38:53",
+        "reactions": []
+    }
+]

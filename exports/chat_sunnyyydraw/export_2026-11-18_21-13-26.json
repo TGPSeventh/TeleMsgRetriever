@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23499,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ayyy malihhh hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:19",
+        "reactions": []
+    },
+    {
+        "id": 23498,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sabi ka lang pag need mo kasama",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:15",
+        "reactions": []
+    },
+    {
+        "id": 23497,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "oki Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:05",
+        "reactions": []
+    }
+]

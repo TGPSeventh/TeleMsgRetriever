@@ -1,0 +1,80 @@
+[
+    {
+        "id": 23366,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "go ahead Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:53:14",
+        "reactions": []
+    },
+    {
+        "id": 23365,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiesss",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:53:11",
+        "reactions": []
+    },
+    {
+        "id": 23364,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ask ko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:53:07",
+        "reactions": []
+    },
+    {
+        "id": 23363,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "now na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:53:05",
+        "reactions": []
+    },
+    {
+        "id": 23362,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ayoko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:53:03",
+        "reactions": []
+    },
+    {
+        "id": 23361,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "g Thursday nalangs?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:52:56",
+        "reactions": []
+    }
+]

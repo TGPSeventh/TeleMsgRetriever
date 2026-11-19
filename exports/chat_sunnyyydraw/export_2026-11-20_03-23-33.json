@@ -1,0 +1,54 @@
+[
+    {
+        "id": 24292,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wait mo later",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:23:32",
+        "reactions": []
+    },
+    {
+        "id": 24291,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero grabe buti kalmado me talaga kagabi",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:23:32",
+        "reactions": []
+    },
+    {
+        "id": 24290,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eme",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:23:21",
+        "reactions": []
+    },
+    {
+        "id": 24289,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sakin sure me hindi sasakit, more on during sa release ako napagod hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24286,
+        "date": "2026-11-19 19:23:12",
+        "reactions": []
+    }
+]

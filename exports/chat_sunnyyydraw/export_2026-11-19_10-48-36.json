@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23715,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "doon kami dumadaan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 02:48:33",
+        "reactions": []
+    },
+    {
+        "id": 23714,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okii",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 02:48:32",
+        "reactions": []
+    },
+    {
+        "id": 23713,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway ka",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 02:48:29",
+        "reactions": []
+    },
+    {
+        "id": 23712,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "huwag trinoma bi",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 02:48:26",
+        "reactions": []
+    }
+]

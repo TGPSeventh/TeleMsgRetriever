@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24229,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yeaaahhh",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:09:41",
+        "reactions": []
+    },
+    {
+        "id": 24228,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi hahanapin mo yung feeling",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:09:36",
+        "reactions": []
+    },
+    {
+        "id": 24227,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "see kaya takot me",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:09:27",
+        "reactions": []
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23547,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "cebu?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:00:19",
+        "reactions": []
+    },
+    {
+        "id": 23546,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nabanggit niya kasi na may trauma na siya sa Cebu",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:00:01",
+        "reactions": []
+    }
+]

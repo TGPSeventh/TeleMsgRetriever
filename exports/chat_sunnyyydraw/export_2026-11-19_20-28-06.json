@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24188,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sowwy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 12:28:02",
+        "reactions": []
+    },
+    {
+        "id": 24187,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "back at my room na po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 12:27:54",
+        "reactions": []
+    },
+    {
+        "id": 24186,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "go langs Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 12:27:47",
+        "reactions": []
+    }
+]

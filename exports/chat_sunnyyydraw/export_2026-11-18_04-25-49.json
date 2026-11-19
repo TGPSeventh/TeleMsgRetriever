@@ -1,0 +1,46 @@
+[
+    {
+        "id": 23388,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:25:30",
+        "reactions": []
+    },
+    {
+        "id": 23387,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahahha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:25:25",
+        "reactions": []
+    },
+    {
+        "id": 23386,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baka trap?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23384,
+        "date": "2026-11-17 20:25:23",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    }
+]

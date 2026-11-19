@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24200,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahha kakagising lng rin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:03:14",
+        "reactions": []
+    },
+    {
+        "id": 24199,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nagsleep ka?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:03:09",
+        "reactions": []
+    }
+]

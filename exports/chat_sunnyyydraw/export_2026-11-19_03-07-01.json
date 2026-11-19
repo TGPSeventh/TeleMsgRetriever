@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23568,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okie Jo, ligo well",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:06:59",
+        "reactions": []
+    },
+    {
+        "id": 23567,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "shower lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:06:38",
+        "reactions": []
+    },
+    {
+        "id": 23566,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "brb",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:06:31",
+        "reactions": []
+    }
+]

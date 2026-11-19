@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23372,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:09:29",
+        "reactions": []
+    },
+    {
+        "id": 23371,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "weak signal",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:09:28",
+        "reactions": []
+    }
+]

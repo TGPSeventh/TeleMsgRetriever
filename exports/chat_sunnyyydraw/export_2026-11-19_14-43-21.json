@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23895,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sa loob ng harts lobby",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:14",
+        "reactions": []
+    },
+    {
+        "id": 23894,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "where ka nga bi?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:02",
+        "reactions": []
+    },
+    {
+        "id": 23893,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "alrightttt",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:42:54",
+        "reactions": []
+    }
+]

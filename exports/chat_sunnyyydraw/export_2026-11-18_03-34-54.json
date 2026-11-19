@@ -1,0 +1,51 @@
+[
+    {
+        "id": 23300,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I love you so much Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:34:47",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23299,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "also ingats sa byahe papasok Jo.",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:34:43",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23298,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Until dec please",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:34:34",
+        "reactions": []
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23920,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okayyy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:53:43",
+        "reactions": []
+    },
+    {
+        "id": 23919,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kapag nasa sm north",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:53:41",
+        "reactions": []
+    },
+    {
+        "id": 23918,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kapag lapit na me",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:53:37",
+        "reactions": []
+    },
+    {
+        "id": 23917,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I mean check na ba ako?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:53:21",
+        "reactions": []
+    }
+]

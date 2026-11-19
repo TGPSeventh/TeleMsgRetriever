@@ -1,0 +1,72 @@
+[
+    {
+        "id": 22766,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sorry sorry hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 11:59:59",
+        "reactions": []
+    },
+    {
+        "id": 22765,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "akin hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22762,
+        "date": "2026-11-16 11:59:55",
+        "reactions": []
+    },
+    {
+        "id": 22764,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "gising",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 11:59:50",
+        "reactions": []
+    },
+    {
+        "id": 22763,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sa true pag gantong oras or mga 12mn",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22760,
+        "date": "2026-11-16 11:59:48",
+        "reactions": []
+    },
+    {
+        "id": 22762,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "maliii hahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 11:59:46",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 22789,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yung soup ha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22788,
+        "date": "2026-11-16 13:34:31",
+        "reactions": []
+    },
+    {
+        "id": 22788,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you Jooo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:34:20",
+        "reactions": []
+    },
+    {
+        "id": 22787,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "media_path": "media/sticker.webm",
+        "is_sticker": true,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:34:19",
+        "reactions": []
+    }
+]

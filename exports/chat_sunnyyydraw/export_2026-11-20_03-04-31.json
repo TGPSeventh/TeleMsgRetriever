@@ -1,0 +1,46 @@
+[
+    {
+        "id": 24204,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "let me sink in inside you pa?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:04:24",
+        "reactions": []
+    },
+    {
+        "id": 24203,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ang arte mo sa part na yan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24201,
+        "date": "2026-11-19 19:04:16",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24202,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "u want na mag sink in?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24197,
+        "date": "2026-11-19 19:04:06",
+        "reactions": []
+    }
+]

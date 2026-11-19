@@ -1,0 +1,54 @@
+[
+    {
+        "id": 22992,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22991,
+        "date": "2026-11-17 11:43:09",
+        "reactions": []
+    },
+    {
+        "id": 22991,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nakita mo na pala yung new bondi? yung pina stayan ni Scott?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:43:03",
+        "reactions": []
+    },
+    {
+        "id": 22990,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "💡 on or💡 off?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:43:01",
+        "reactions": []
+    },
+    {
+        "id": 22989,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiiiii po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:42:40",
+        "reactions": []
+    }
+]

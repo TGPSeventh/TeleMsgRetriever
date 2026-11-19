@@ -1,0 +1,59 @@
+[
+    {
+        "id": 23006,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Ah yeah B pala my bad",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23003,
+        "date": "2026-11-17 11:45:36",
+        "reactions": []
+    },
+    {
+        "id": 23005,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero naurrrr",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23002,
+        "date": "2026-11-17 11:45:34",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23004,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Oo nakakailag lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23001,
+        "date": "2026-11-17 11:45:23",
+        "reactions": []
+    },
+    {
+        "id": 23003,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "B yon",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23002,
+        "date": "2026-11-17 11:45:19",
+        "reactions": []
+    }
+]

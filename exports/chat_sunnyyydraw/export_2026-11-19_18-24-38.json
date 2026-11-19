@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23940,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ingats Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:24:25",
+        "reactions": []
+    },
+    {
+        "id": 23939,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:24:21",
+        "reactions": []
+    },
+    {
+        "id": 23938,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pang kulam ba to?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23934,
+        "date": "2026-11-19 10:24:20",
+        "reactions": []
+    },
+    {
+        "id": 23937,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Thank you Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:24:05",
+        "reactions": []
+    }
+]

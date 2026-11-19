@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24235,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eme",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:11:20",
+        "reactions": []
+    },
+    {
+        "id": 24234,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "trial pa lang yon",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:11:19",
+        "reactions": []
+    },
+    {
+        "id": 24233,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wala pa yon",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:11:12",
+        "reactions": []
+    }
+]

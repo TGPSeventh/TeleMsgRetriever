@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23842,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nakahiga lang me hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:42:46",
+        "reactions": []
+    },
+    {
+        "id": 23841,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "focus na riyan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:42:38",
+        "reactions": []
+    },
+    {
+        "id": 23840,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sige na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:42:35",
+        "reactions": []
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "id": 23471,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha biro langggg hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:30:35",
+        "reactions": []
+    },
+    {
+        "id": 23470,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nasaan pamalo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:30:28",
+        "reactions": []
+    },
+    {
+        "id": 23469,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway ka",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:30:18",
+        "reactions": []
+    },
+    {
+        "id": 23468,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ayyyy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:30:16",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    }
+]

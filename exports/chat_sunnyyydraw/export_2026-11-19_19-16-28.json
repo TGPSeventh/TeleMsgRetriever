@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24078,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero not on other ppl naman",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:16:25",
+        "reactions": []
+    },
+    {
+        "id": 24077,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "trueee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:16:18",
+        "reactions": []
+    },
+    {
+        "id": 24076,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahanapin din kasi talaga ng body mo yung feeling",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24073,
+        "date": "2026-11-19 11:16:10",
+        "reactions": []
+    }
+]

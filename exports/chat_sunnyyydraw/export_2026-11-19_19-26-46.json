@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24093,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "I can handle this",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:26:25",
+        "reactions": []
+    },
+    {
+        "id": 24092,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero don’t worry",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:26:17",
+        "reactions": []
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 23971,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "niceeee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:41:36",
+        "reactions": []
+    },
+    {
+        "id": 23970,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nakauwi na me",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:41:22",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23969,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hays",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:41:14",
+        "reactions": []
+    },
+    {
+        "id": 23968,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "see planned talaga",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:41:13",
+        "reactions": []
+    },
+    {
+        "id": 23967,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:41:08",
+        "reactions": []
+    }
+]

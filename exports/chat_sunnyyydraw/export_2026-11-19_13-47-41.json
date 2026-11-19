@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23848,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:47:19",
+        "reactions": []
+    },
+    {
+        "id": 23847,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "eh umuwi",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:47:18",
+        "reactions": []
+    }
+]

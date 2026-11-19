@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23486,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sinusulit ko lang Jo yung meron us na time",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:05:03",
+        "reactions": []
+    },
+    {
+        "id": 23485,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "made a promise",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:04:54",
+        "reactions": []
+    },
+    {
+        "id": 23484,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "December",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:04:51",
+        "reactions": []
+    }
+]

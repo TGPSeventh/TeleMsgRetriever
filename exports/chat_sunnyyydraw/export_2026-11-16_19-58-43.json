@@ -1,0 +1,28 @@
+[
+    {
+        "id": 22752,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sleepy ka pa Jo?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 11:58:37",
+        "reactions": []
+    },
+    {
+        "id": 22751,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "idk pa po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 11:58:29",
+        "reactions": []
+    }
+]

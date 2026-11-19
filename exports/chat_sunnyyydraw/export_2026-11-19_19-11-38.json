@@ -1,0 +1,54 @@
+[
+    {
+        "id": 24067,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dami mong expenses today Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:11:37",
+        "reactions": []
+    },
+    {
+        "id": 24066,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes po Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:11:31",
+        "reactions": []
+    },
+    {
+        "id": 24065,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sure ba",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:11:25",
+        "reactions": []
+    },
+    {
+        "id": 24064,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:11:07",
+        "reactions": []
+    }
+]

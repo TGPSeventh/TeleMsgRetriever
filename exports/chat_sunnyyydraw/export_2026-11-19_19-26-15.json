@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24091,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "about lang sa why ko inuninstall yung life 360",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:26:04",
+        "reactions": []
+    },
+    {
+        "id": 24090,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nope",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:25:50",
+        "reactions": []
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 23527,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "payag na ako",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:50:58",
+        "reactions": [
+            {
+                "reaction": "😁",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23526,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "naurrrr",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:50:57",
+        "reactions": []
+    },
+    {
+        "id": 23525,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "we meet later for usap",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:50:47",
+        "reactions": []
+    }
+]

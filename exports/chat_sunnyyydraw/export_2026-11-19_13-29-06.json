@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23828,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "la langsss hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:29:06",
+        "reactions": []
+    },
+    {
+        "id": 23827,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dami kasing tao diyan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:29:04",
+        "reactions": []
+    },
+    {
+        "id": 23826,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baliw ka",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:28:59",
+        "reactions": []
+    },
+    {
+        "id": 23825,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 05:28:52",
+        "reactions": []
+    }
+]

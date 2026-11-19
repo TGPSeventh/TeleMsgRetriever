@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24129,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "we'll make it work",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24127,
+        "date": "2026-11-19 11:38:36",
+        "reactions": []
+    },
+    {
+        "id": 24128,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "we have until tonight or tomorrow sa chat? para any last messages as Jo for each other okay?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:38:27",
+        "reactions": []
+    }
+]

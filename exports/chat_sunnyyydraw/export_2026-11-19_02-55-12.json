@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23541,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "not now, too early",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:55:08",
+        "reactions": []
+    },
+    {
+        "id": 23540,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sabihin ko na lang maybe later pagkauwi",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:54:58",
+        "reactions": []
+    }
+]

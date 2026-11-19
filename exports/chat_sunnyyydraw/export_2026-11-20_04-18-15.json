@@ -1,0 +1,677 @@
+[
+    {
+        "id": 24366,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ahh mag train ka today Jo?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:11:48",
+        "reactions": []
+    },
+    {
+        "id": 24365,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahab",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:11:32",
+        "reactions": []
+    },
+    {
+        "id": 24364,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero pa-mrt kami hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:11:22",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1,
+                "reactors": [
+                    "Seventh"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24363,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dadaan lang rider ko riyan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:11:17",
+        "reactions": []
+    },
+    {
+        "id": 24362,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway mo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:11:12",
+        "reactions": []
+    },
+    {
+        "id": 24361,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "HAHAHAHHAA",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24360,
+        "date": "2026-11-19 20:11:10",
+        "reactions": []
+    },
+    {
+        "id": 24360,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero last survey: di ka na dadaan? hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:06:12",
+        "reactions": []
+    },
+    {
+        "id": 24359,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "letting everything sink in Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:03:49",
+        "reactions": []
+    },
+    {
+        "id": 24358,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nakatulala pa rin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:03:35",
+        "reactions": []
+    },
+    {
+        "id": 24357,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "focus na muna riyan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:02:37",
+        "reactions": []
+    },
+    {
+        "id": 24356,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ikaw?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:02:34",
+        "reactions": []
+    },
+    {
+        "id": 24355,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiiiess",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:00:37",
+        "reactions": []
+    },
+    {
+        "id": 24354,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no pa",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 20:00:14",
+        "reactions": []
+    },
+    {
+        "id": 24350,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or too early?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:49:05",
+        "reactions": []
+    },
+    {
+        "id": 24349,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "booking ka na Jo?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:49:01",
+        "reactions": []
+    },
+    {
+        "id": 24348,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:46:55",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1,
+                "reactors": [
+                    "Seventh"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24347,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "tulala pro max kasi may music hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:46:35",
+        "reactions": []
+    },
+    {
+        "id": 24346,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieeee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:46:27",
+        "reactions": []
+    },
+    {
+        "id": 24345,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "well nakaupo while nag mumusic for now",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:46:22",
+        "reactions": []
+    },
+    {
+        "id": 24344,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "laptoping",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:46:09",
+        "reactions": []
+    },
+    {
+        "id": 24343,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "what r u doing",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:46:04",
+        "reactions": []
+    },
+    {
+        "id": 24342,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:46:04",
+        "reactions": []
+    },
+    {
+        "id": 24341,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:59",
+        "reactions": []
+    },
+    {
+        "id": 24340,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:37",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1,
+                "reactors": [
+                    "Sun"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24339,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "don’t worry",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:29",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1,
+                "reactors": [
+                    "Seventh"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24338,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "u did good",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:26",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1,
+                "reactors": [
+                    "Seventh"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24337,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:17",
+        "reactions": []
+    },
+    {
+        "id": 24336,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "umiiral inferiority complex ko tuloy feel ko di kita na satisfy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:35:43",
+        "reactions": []
+    },
+    {
+        "id": 24335,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I did good naman ba?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:35:21",
+        "reactions": []
+    },
+    {
+        "id": 24334,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:35:12",
+        "reactions": []
+    },
+    {
+        "id": 24333,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "let's seee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:35:02",
+        "reactions": []
+    },
+    {
+        "id": 24332,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ahh meron ka na girlfriend non",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:34:25",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1,
+                "reactors": [
+                    "Seventh"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24331,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "2030 po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:33:31",
+        "reactions": []
+    },
+    {
+        "id": 24330,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "what i mean is when expiry",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:32:28",
+        "reactions": []
+    },
+    {
+        "id": 24329,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "oo hahahahah",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24327,
+        "date": "2026-11-19 19:32:09",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1,
+                "reactors": [
+                    "Seventh"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24328,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway mo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:32:05",
+        "reactions": []
+    },
+    {
+        "id": 24327,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ngayon lang ako nakakabawi ng gantong asar no? hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:32:02",
+        "reactions": []
+    },
+    {
+        "id": 24326,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha sowwy ni spam ko na tong ganto",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:31:40",
+        "reactions": []
+    },
+    {
+        "id": 24325,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:31:35",
+        "reactions": []
+    },
+    {
+        "id": 24324,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ako pasok sayo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:31:30",
+        "reactions": []
+    },
+    {
+        "id": 24323,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pwede mamaya bago pumasok",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24321,
+        "date": "2026-11-19 19:31:26",
+        "reactions": []
+    },
+    {
+        "id": 24322,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nope di na me makakatulog neto",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24319,
+        "date": "2026-11-19 19:31:16",
+        "reactions": []
+    },
+    {
+        "id": 24321,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "when ba?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:31:09",
+        "reactions": []
+    },
+    {
+        "id": 24320,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "let's see, sana di abutin ng expiry hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24316,
+        "date": "2026-11-19 19:31:02",
+        "reactions": []
+    },
+    {
+        "id": 24319,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ikaw ba jo? sleep ka muna ulit?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:30:48",
+        "reactions": []
+    },
+    {
+        "id": 24318,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wait po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:30:40",
+        "reactions": []
+    },
+    {
+        "id": 24317,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24315,
+        "date": "2026-11-19 19:30:38",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1,
+                "reactors": [
+                    "Seventh"
+                ]
+            }
+        ]
+    }
+]

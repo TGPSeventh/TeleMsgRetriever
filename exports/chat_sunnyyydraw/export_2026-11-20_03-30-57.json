@@ -1,0 +1,59 @@
+[
+    {
+        "id": 24319,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ikaw ba jo? sleep ka muna ulit?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:30:48",
+        "reactions": []
+    },
+    {
+        "id": 24318,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wait po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:30:40",
+        "reactions": []
+    },
+    {
+        "id": 24317,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24315,
+        "date": "2026-11-19 19:30:38",
+        "reactions": []
+    },
+    {
+        "id": 24316,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sa iba mo na gamitin yan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:30:29",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    }
+]

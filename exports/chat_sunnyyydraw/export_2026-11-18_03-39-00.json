@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23313,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nag promise naman na ako sayo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:38:53",
+        "reactions": []
+    },
+    {
+        "id": 23312,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "until December nalang tong pasaway na to Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:38:44",
+        "reactions": []
+    }
+]

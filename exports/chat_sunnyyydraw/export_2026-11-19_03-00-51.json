@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23551,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "doon yung sinabi kong nahuhulog na ako sa’yo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:00:45",
+        "reactions": []
+    },
+    {
+        "id": 23550,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nung nag cebu siya",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:00:30",
+        "reactions": []
+    },
+    {
+        "id": 23549,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nyare?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:00:27",
+        "reactions": []
+    },
+    {
+        "id": 23548,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yes",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:00:23",
+        "reactions": []
+    }
+]

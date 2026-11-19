@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23422,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nothinggg",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 11:28:36",
+        "reactions": []
+    },
+    {
+        "id": 23421,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 11:28:29",
+        "reactions": []
+    },
+    {
+        "id": 23420,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "here Jom why",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 11:28:26",
+        "reactions": []
+    }
+]

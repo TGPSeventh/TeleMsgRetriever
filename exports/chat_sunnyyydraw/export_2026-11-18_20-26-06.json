@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23455,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Jo kakagising langs hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23453,
+        "date": "2026-11-18 12:25:59",
+        "reactions": []
+    },
+    {
+        "id": 23454,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "focus san po?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:25:52",
+        "reactions": []
+    }
+]

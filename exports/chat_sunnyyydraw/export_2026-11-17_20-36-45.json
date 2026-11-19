@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23206,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "di malinaw eh",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:36:36",
+        "reactions": []
+    },
+    {
+        "id": 23205,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "whattt",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:36:31",
+        "reactions": []
+    }
+]

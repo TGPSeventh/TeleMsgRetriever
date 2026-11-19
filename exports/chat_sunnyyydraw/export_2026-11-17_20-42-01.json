@@ -1,0 +1,15 @@
+[
+    {
+        "id": 23221,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "media_path": "media/sticker (2).webp",
+        "is_sticker": true,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23213,
+        "date": "2026-11-17 12:41:54",
+        "reactions": []
+    }
+]

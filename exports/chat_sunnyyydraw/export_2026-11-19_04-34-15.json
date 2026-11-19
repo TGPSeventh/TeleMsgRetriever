@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23623,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahhaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 20:34:12",
+        "reactions": []
+    },
+    {
+        "id": 23622,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ni try ko recreate yung kay Sandy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 20:34:08",
+        "reactions": []
+    },
+    {
+        "id": 23621,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "try my adobong sitaw later hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 20:33:52",
+        "reactions": []
+    }
+]

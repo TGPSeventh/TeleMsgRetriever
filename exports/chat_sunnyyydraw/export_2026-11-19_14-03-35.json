@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23865,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "cod ko nalangs?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:03:24",
+        "reactions": []
+    },
+    {
+        "id": 23864,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero bobook pa kita Jo?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:03:16",
+        "reactions": []
+    }
+]

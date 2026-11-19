@@ -1,0 +1,54 @@
+[
+    {
+        "id": 24208,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:04:59",
+        "reactions": []
+    },
+    {
+        "id": 24207,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ahahahahahah",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:04:55",
+        "reactions": []
+    },
+    {
+        "id": 24206,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwwy ang aga pala",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:04:52",
+        "reactions": []
+    },
+    {
+        "id": 24205,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ang tapang mo na talaga gumanyan sakin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24204,
+        "date": "2026-11-19 19:04:50",
+        "reactions": []
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 23926,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "mag off ka na ng phone?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:56:24",
+        "reactions": []
+    },
+    {
+        "id": 23925,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ingatsss",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:56:18",
+        "reactions": []
+    },
+    {
+        "id": 23924,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiiii",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:56:11",
+        "reactions": []
+    },
+    {
+        "id": 23923,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nakasakay na me",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:56:05",
+        "reactions": []
+    },
+    {
+        "id": 23922,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "thank u",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:56:02",
+        "reactions": []
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23315,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "anyday ng 2nd week Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:39:21",
+        "reactions": []
+    },
+    {
+        "id": 23314,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "what day",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:39:02",
+        "reactions": []
+    }
+]

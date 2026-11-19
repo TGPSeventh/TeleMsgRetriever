@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23903,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yupp kapag naka otw ka na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:44:05",
+        "reactions": []
+    },
+    {
+        "id": 23902,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "papasok na lang me",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:55",
+        "reactions": []
+    }
+]

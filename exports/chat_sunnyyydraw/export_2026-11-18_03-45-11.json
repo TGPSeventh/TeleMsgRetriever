@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23328,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero even before pa naman mo mabanggit diba?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:44:53",
+        "reactions": []
+    },
+    {
+        "id": 23327,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha somewhat",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:44:41",
+        "reactions": []
+    }
+]

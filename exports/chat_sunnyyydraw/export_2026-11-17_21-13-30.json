@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23266,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Usually kasi puro phone calls then lumipat tayo viber",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 13:13:29",
+        "reactions": []
+    },
+    {
+        "id": 23265,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Wala lang dun tayo nag video call ng una e hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23262,
+        "date": "2026-11-17 13:13:13",
+        "reactions": []
+    }
+]

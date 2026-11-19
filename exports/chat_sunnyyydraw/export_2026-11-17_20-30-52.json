@@ -1,0 +1,15 @@
+[
+    {
+        "id": 23181,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "",
+        "media_path": "media/sticker (1).webm",
+        "is_sticker": true,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:30:43",
+        "reactions": []
+    }
+]

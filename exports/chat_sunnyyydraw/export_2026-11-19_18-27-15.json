@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23943,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "send na need ko pay later",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:27:13",
+        "reactions": []
+    },
+    {
+        "id": 23942,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:27:09",
+        "reactions": []
+    },
+    {
+        "id": 23941,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "Joo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:27:04",
+        "reactions": []
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "id": 22987,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nothing in particular naman",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22985,
+        "date": "2026-11-17 11:41:36",
+        "reactions": []
+    },
+    {
+        "id": 22986,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiii",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22984,
+        "date": "2026-11-17 11:41:22",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22985,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "may want ikaw sabihin?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:41:19",
+        "reactions": []
+    },
+    {
+        "id": 22984,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo sana",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:41:16",
+        "reactions": []
+    },
+    {
+        "id": 22983,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "la lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:41:14",
+        "reactions": []
+    },
+    {
+        "id": 22982,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wanna talk pa?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:41:11",
+        "reactions": []
+    }
+]

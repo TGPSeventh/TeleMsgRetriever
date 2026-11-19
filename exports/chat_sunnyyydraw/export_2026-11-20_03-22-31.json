@@ -1,0 +1,72 @@
+[
+    {
+        "id": 24287,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "both ways hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24284,
+        "date": "2026-11-19 19:22:28",
+        "reactions": []
+    },
+    {
+        "id": 24286,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sana di super sumakit body natin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:22:26",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24285,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero at least maganda gising ko di me nag oover think",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:22:23",
+        "reactions": []
+    },
+    {
+        "id": 24284,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yeyyy, napagod din kita",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:22:14",
+        "reactions": []
+    },
+    {
+        "id": 24283,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "kasi nag stastart na naman malungkot ang ferson then next kasi nun overthinking na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:22:07",
+        "reactions": []
+    }
+]

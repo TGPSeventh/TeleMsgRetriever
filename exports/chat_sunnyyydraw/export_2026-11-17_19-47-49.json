@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23019,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "anong plan yan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23017,
+        "date": "2026-11-17 11:47:37",
+        "reactions": []
+    },
+    {
+        "id": 23018,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Ano po yun?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23016,
+        "date": "2026-11-17 11:47:29",
+        "reactions": []
+    }
+]

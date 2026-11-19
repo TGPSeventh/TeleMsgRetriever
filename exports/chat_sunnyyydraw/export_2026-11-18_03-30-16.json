@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23296,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Jooo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:30:13",
+        "reactions": []
+    },
+    {
+        "id": 23295,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "until nov?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:29:54",
+        "reactions": []
+    }
+]

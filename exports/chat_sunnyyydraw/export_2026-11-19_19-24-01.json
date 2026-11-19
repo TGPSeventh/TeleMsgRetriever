@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24085,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwwy anything happened Jo?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:23:52",
+        "reactions": []
+    },
+    {
+        "id": 24084,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway natin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:23:38",
+        "reactions": []
+    }
+]

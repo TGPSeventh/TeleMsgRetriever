@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23002,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Ganun ba criteria for Plan A? Hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22998,
+        "date": "2026-11-17 11:45:13",
+        "reactions": []
+    },
+    {
+        "id": 23001,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yeaaahhh pero looks comfy naman",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23000,
+        "date": "2026-11-17 11:45:10",
+        "reactions": []
+    },
+    {
+        "id": 23000,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "May parang ganun rin na part dun sa locker area namin sa taas e like pa U na sofa, kaso wala door  kitang kita kung natutulog",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22997,
+        "date": "2026-11-17 11:44:49",
+        "reactions": []
+    }
+]

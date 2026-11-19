@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24181,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or sa store nalang me mag purchase?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 12:08:47",
+        "reactions": []
+    },
+    {
+        "id": 24180,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "dahong pao",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 12:08:34",
+        "reactions": []
+    },
+    {
+        "id": 24179,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "can you order me a chager drink po?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 12:08:28",
+        "reactions": []
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "id": 23306,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:35:16",
+        "reactions": []
+    },
+    {
+        "id": 23305,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahaaah",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:35:14",
+        "reactions": []
+    },
+    {
+        "id": 23304,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dec 1",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23298,
+        "date": "2026-11-17 19:35:10",
+        "reactions": []
+    },
+    {
+        "id": 23303,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Sowwy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23301,
+        "date": "2026-11-17 19:35:08",
+        "reactions": []
+    },
+    {
+        "id": 23302,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "biglang liko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:35:05",
+        "reactions": []
+    },
+    {
+        "id": 23301,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "daya talaga oh",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23299,
+        "date": "2026-11-17 19:34:57",
+        "reactions": []
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24051,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sabihin na po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:08:52",
+        "reactions": []
+    },
+    {
+        "id": 24050,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "how much nga poooo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:08:48",
+        "reactions": []
+    }
+]

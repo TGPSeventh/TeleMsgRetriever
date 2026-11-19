@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23030,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Yeah baka factor rin yung di pa ready",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:51:19",
+        "reactions": []
+    },
+    {
+        "id": 23029,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Like ayaw na as in?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:51:07",
+        "reactions": []
+    },
+    {
+        "id": 23028,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "idunno, baka dahil pa talaga me ready",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:51:07",
+        "reactions": []
+    },
+    {
+        "id": 23027,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hmmm want ko ng baby, pero ngayon kasi parang ayoko na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23025,
+        "date": "2026-11-17 11:50:55",
+        "reactions": []
+    }
+]

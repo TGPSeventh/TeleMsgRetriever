@@ -1,0 +1,59 @@
+[
+    {
+        "id": 23890,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "rightt?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:41:39",
+        "reactions": []
+    },
+    {
+        "id": 23889,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "",
+        "media_path": "media/photo_2026-11-19_06-41-36.jpg",
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:41:36",
+        "reactions": []
+    },
+    {
+        "id": 23888,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:41:20",
+        "reactions": []
+    },
+    {
+        "id": 23887,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yup saw it na po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:41:16",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

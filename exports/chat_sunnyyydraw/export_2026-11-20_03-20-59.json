@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24279,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "as in us na kung paano tayo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:20:51",
+        "reactions": []
+    },
+    {
+        "id": 24278,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "not just the sex Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24276,
+        "date": "2026-11-19 19:20:38",
+        "reactions": []
+    }
+]

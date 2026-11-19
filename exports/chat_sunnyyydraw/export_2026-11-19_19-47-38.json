@@ -1,0 +1,54 @@
+[
+    {
+        "id": 24150,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:47:29",
+        "reactions": []
+    },
+    {
+        "id": 24149,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "along with supergirl ticket and pen",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:47:28",
+        "reactions": []
+    },
+    {
+        "id": 24148,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:47:16",
+        "reactions": []
+    },
+    {
+        "id": 24147,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "before ka bakasyon",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:47:11",
+        "reactions": []
+    }
+]

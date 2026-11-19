@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24218,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes Jo?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:06:50",
+        "reactions": []
+    },
+    {
+        "id": 24217,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hays jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:06:41",
+        "reactions": []
+    }
+]

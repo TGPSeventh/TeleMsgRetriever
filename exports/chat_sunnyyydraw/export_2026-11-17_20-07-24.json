@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23078,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ohh ok ok po got it.",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:07:13",
+        "reactions": []
+    },
+    {
+        "id": 23077,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kung paano kita kausapin kahapon",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:06:57",
+        "reactions": []
+    }
+]

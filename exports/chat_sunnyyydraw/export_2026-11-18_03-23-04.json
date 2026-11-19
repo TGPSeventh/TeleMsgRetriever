@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23273,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:22:56",
+        "reactions": []
+    },
+    {
+        "id": 23272,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nagising nang 1 am?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:22:51",
+        "reactions": []
+    },
+    {
+        "id": 23271,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "bigla lang pumasok sya",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:22:38",
+        "reactions": []
+    }
+]

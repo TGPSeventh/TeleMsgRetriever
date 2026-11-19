@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24041,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "move it",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:07:22",
+        "reactions": []
+    },
+    {
+        "id": 24040,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "so ano nga need ko pay",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:07:20",
+        "reactions": []
+    }
+]

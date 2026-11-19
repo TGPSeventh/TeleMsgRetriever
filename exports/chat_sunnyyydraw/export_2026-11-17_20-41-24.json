@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23220,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Sowwy po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:41:04",
+        "reactions": []
+    },
+    {
+        "id": 23219,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "k",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:40:56",
+        "reactions": []
+    },
+    {
+        "id": 23218,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Hindi naman sa gumaganti Jo haha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:40:55",
+        "reactions": []
+    }
+]

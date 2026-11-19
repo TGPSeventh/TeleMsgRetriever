@@ -1,0 +1,46 @@
+[
+    {
+        "id": 23061,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Dyan na nag long weekend hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23059,
+        "date": "2026-11-17 12:00:34",
+        "reactions": []
+    },
+    {
+        "id": 23060,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nasanay na rin sayo e no?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:00:19",
+        "reactions": []
+    },
+    {
+        "id": 23059,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "halata naman dahil nandito na siya since weekends hahah",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:00:16",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    }
+]

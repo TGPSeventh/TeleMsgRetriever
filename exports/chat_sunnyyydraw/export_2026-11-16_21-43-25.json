@@ -1,0 +1,28 @@
+[
+    {
+        "id": 22817,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pleaseeee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:43:18",
+        "reactions": []
+    },
+    {
+        "id": 22816,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yaaan mo na muna me magcare sayo Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:43:16",
+        "reactions": []
+    }
+]

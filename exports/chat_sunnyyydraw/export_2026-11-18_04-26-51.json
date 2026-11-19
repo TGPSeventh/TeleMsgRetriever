@@ -1,0 +1,69 @@
+[
+    {
+        "id": 23394,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "take care",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:26:44",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23393,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yuppppppp",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23391,
+        "date": "2026-11-17 20:26:28",
+        "reactions": []
+    },
+    {
+        "id": 23392,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ingats ingats",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:26:23",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23391,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "will clear this jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:26:21",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

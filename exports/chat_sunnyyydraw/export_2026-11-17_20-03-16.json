@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23070,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi ayoko yung way nila",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:03:13",
+        "reactions": []
+    },
+    {
+        "id": 23069,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy, sinasabihan ko sila minsan kapag pinapagalitan si Gab",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23067,
+        "date": "2026-11-17 12:03:03",
+        "reactions": []
+    },
+    {
+        "id": 23068,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Ay siguro kahit ako kung ni spospoil ako e hahaha fave ko rin ate Aly hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23066,
+        "date": "2026-11-17 12:02:48",
+        "reactions": []
+    }
+]

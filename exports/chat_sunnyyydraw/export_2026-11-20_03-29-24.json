@@ -1,0 +1,67 @@
+[
+    {
+        "id": 24313,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24310,
+        "date": "2026-11-19 19:29:07",
+        "reactions": []
+    },
+    {
+        "id": 24312,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahah",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:29:00",
+        "reactions": []
+    },
+    {
+        "id": 24311,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I still have here if you want",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:28:58",
+        "reactions": []
+    },
+    {
+        "id": 24310,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "thank u",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:28:55",
+        "reactions": []
+    },
+    {
+        "id": 24309,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieeeeee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:28:53",
+        "reactions": []
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 24099,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ka-excite naman magkababy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:30:51",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24098,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "We made a promise but doesn't mean na we'll let go na yung friendship right?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:30:49",
+        "reactions": []
+    },
+    {
+        "id": 24097,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "so cutieee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24095,
+        "date": "2026-11-19 11:30:43",
+        "reactions": []
+    }
+]

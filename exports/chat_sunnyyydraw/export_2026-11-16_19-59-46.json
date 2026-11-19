@@ -1,0 +1,67 @@
+[
+    {
+        "id": 22761,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "uyyyy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22759,
+        "date": "2026-11-16 11:59:43",
+        "reactions": []
+    },
+    {
+        "id": 22760,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "tuloy tuloy na yan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22756,
+        "date": "2026-11-16 11:59:34",
+        "reactions": []
+    },
+    {
+        "id": 22759,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "dapat sumabay ka na pala sakin kanina hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 11:59:33",
+        "reactions": []
+    },
+    {
+        "id": 22758,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ay sya ligo ka muna",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 11:59:25",
+        "reactions": []
+    },
+    {
+        "id": 22757,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pero i wanna take a shower din para magising",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22756,
+        "date": "2026-11-16 11:59:16",
+        "reactions": []
+    }
+]

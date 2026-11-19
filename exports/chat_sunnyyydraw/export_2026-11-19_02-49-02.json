@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23521,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pramis",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:49:01",
+        "reactions": []
+    },
+    {
+        "id": 23520,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nagsleep ka?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:48:58",
+        "reactions": []
+    },
+    {
+        "id": 23519,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee promise?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 18:48:48",
+        "reactions": []
+    }
+]

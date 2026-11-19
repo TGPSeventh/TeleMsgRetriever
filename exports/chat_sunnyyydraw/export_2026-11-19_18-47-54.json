@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23978,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha jk",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:47:48",
+        "reactions": []
+    },
+    {
+        "id": 23977,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "me is mag reminisce lang muna",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:47:45",
+        "reactions": []
+    },
+    {
+        "id": 23976,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okiiiessss",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:47:24",
+        "reactions": []
+    },
+    {
+        "id": 23975,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "humiga saglit",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:47:23",
+        "reactions": []
+    }
+]

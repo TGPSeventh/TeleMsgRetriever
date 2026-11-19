@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23064,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "lahat naman, pero fave niya is ate aly",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23062,
+        "date": "2026-11-17 12:01:35",
+        "reactions": []
+    },
+    {
+        "id": 23063,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yessy, sa amin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23060,
+        "date": "2026-11-17 12:01:13",
+        "reactions": []
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23555,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "what's next?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:01:20",
+        "reactions": []
+    },
+    {
+        "id": 23554,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "got it",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:01:11",
+        "reactions": []
+    },
+    {
+        "id": 23553,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ohh ok ok",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:01:05",
+        "reactions": []
+    },
+    {
+        "id": 23552,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yun yung days na mas naging close tayo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:00:56",
+        "reactions": []
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 22803,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "how about u?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:39:15",
+        "reactions": []
+    },
+    {
+        "id": 22802,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "waaaah hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22801,
+        "date": "2026-11-16 13:39:13",
+        "reactions": []
+    },
+    {
+        "id": 22801,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "naur, nanaig yung paghila sakin ng kama",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:39:01",
+        "reactions": []
+    }
+]

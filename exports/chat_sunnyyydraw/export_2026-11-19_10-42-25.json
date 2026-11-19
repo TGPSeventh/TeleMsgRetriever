@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23711,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "bahala na mamaya",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 02:42:12",
+        "reactions": []
+    },
+    {
+        "id": 23710,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or sa 7/11",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 02:42:05",
+        "reactions": []
+    },
+    {
+        "id": 23709,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "idk maybe sa trinoma",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23707,
+        "date": "2026-11-19 02:41:59",
+        "reactions": []
+    }
+]

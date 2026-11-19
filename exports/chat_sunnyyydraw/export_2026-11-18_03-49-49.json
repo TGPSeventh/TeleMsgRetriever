@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23346,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "later or tomorrow?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:49:46",
+        "reactions": []
+    },
+    {
+        "id": 23345,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "okay po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:49:42",
+        "reactions": []
+    },
+    {
+        "id": 23344,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sa call na lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:49:32",
+        "reactions": []
+    }
+]

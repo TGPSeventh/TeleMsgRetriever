@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23913,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "alright",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:52:39",
+        "reactions": []
+    },
+    {
+        "id": 23912,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okiee send ko later",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:52:34",
+        "reactions": []
+    },
+    {
+        "id": 23911,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "gcash",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:52:25",
+        "reactions": []
+    },
+    {
+        "id": 23910,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "cod ba yan?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:52:18",
+        "reactions": []
+    }
+]

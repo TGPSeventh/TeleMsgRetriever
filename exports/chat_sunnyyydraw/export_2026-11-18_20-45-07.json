@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23480,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ping me if free ka na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:44:54",
+        "reactions": []
+    },
+    {
+        "id": 23479,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "brb",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:44:49",
+        "reactions": []
+    },
+    {
+        "id": 23478,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I love you Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:44:43",
+        "reactions": []
+    }
+]

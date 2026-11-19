@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23463,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "but goods lang mag call",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 12:26:59",
+        "reactions": []
+    },
+    {
+        "id": 23462,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "just cooking adobong sitaw po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23460,
+        "date": "2026-11-18 12:26:54",
+        "reactions": []
+    },
+    {
+        "id": 23461,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Hhaha naka cycle",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23458,
+        "date": "2026-11-18 12:26:44",
+        "reactions": []
+    },
+    {
+        "id": 23460,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "baka may need kang gawin",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23454,
+        "date": "2026-11-18 12:26:36",
+        "reactions": []
+    }
+]

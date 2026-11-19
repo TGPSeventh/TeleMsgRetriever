@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24009,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yun na yun",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:51:32",
+        "reactions": []
+    },
+    {
+        "id": 24008,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "nag rest lang",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 10:51:28",
+        "reactions": []
+    },
+    {
+        "id": 24007,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "na ano?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24001,
+        "date": "2026-11-19 10:51:20",
+        "reactions": []
+    }
+]

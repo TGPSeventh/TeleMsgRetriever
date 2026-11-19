@@ -1,0 +1,54 @@
+[
+    {
+        "id": 24226,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sarap kasi e",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:08:33",
+        "reactions": []
+    },
+    {
+        "id": 24225,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "want mo nanaman",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:08:21",
+        "reactions": []
+    },
+    {
+        "id": 24224,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kagabi lang talaga natin ginawa",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:08:17",
+        "reactions": []
+    },
+    {
+        "id": 24223,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwwy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:08:15",
+        "reactions": []
+    }
+]

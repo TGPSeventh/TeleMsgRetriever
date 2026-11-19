@@ -1,0 +1,67 @@
+[
+    {
+        "id": 23339,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:48:43",
+        "reactions": []
+    },
+    {
+        "id": 23338,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "real bye?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:48:42",
+        "reactions": []
+    },
+    {
+        "id": 23337,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:48:39",
+        "reactions": []
+    },
+    {
+        "id": 23336,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "may na book ka na po?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:48:30",
+        "reactions": []
+    },
+    {
+        "id": 23335,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "k bye",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:48:18",
+        "reactions": []
+    }
+]

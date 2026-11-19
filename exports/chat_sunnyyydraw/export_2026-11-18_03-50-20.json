@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23349,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why ayaw later?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:50:14",
+        "reactions": []
+    },
+    {
+        "id": 23348,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or when ever free ka Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:50:09",
+        "reactions": []
+    },
+    {
+        "id": 23347,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "tomorrow",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:49:56",
+        "reactions": []
+    }
+]

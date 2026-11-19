@@ -1,0 +1,54 @@
+[
+    {
+        "id": 23230,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nang di sa bed",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:49:44",
+        "reactions": []
+    },
+    {
+        "id": 23229,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I mean kapag di tayong dalawa lang kasi",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:49:34",
+        "reactions": []
+    },
+    {
+        "id": 23228,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kapag nagsasabi niyan",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:49:31",
+        "reactions": []
+    },
+    {
+        "id": 23227,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "i mean sinasaway mo ko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:49:17",
+        "reactions": []
+    }
+]

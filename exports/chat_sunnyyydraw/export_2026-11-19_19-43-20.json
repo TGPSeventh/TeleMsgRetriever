@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24142,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "mag bigay ka pa ba ng letter? hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:43:14",
+        "reactions": []
+    },
+    {
+        "id": 24141,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Jo question",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:43:06",
+        "reactions": []
+    }
+]

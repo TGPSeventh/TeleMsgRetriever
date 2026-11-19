@@ -1,0 +1,67 @@
+[
+    {
+        "id": 23561,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "maliligo lang me",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:04:57",
+        "reactions": []
+    },
+    {
+        "id": 23560,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "aga pa",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:04:52",
+        "reactions": []
+    },
+    {
+        "id": 23559,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "magsleep ka kaya muna",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:04:51",
+        "reactions": []
+    },
+    {
+        "id": 23558,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wdym",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:04:46",
+        "reactions": []
+    },
+    {
+        "id": 23557,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I don't know what to do",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 19:04:41",
+        "reactions": []
+    }
+]

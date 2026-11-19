@@ -1,0 +1,28 @@
+[
+    {
+        "id": 24053,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "room is 500 something",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:09:23",
+        "reactions": []
+    },
+    {
+        "id": 24052,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "57 pala yung moviit",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:09:06",
+        "reactions": []
+    }
+]

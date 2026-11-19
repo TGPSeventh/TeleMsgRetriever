@@ -1,0 +1,54 @@
+[
+    {
+        "id": 22958,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "di ko naman isasagad ng 9",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:36:20",
+        "reactions": []
+    },
+    {
+        "id": 22957,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "byieeee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:36:14",
+        "reactions": []
+    },
+    {
+        "id": 22956,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yes pooo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:36:13",
+        "reactions": []
+    },
+    {
+        "id": 22955,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "para makapagpahinga ka na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:36:08",
+        "reactions": []
+    }
+]

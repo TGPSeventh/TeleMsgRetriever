@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23067,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Pero ikaw yung sa disciplinary tita mama nya ganun?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:02:22",
+        "reactions": []
+    },
+    {
+        "id": 23066,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi spoiled siya ni ate",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:02:16",
+        "reactions": []
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "id": 23505,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "go na Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:48",
+        "reactions": []
+    },
+    {
+        "id": 23504,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwwy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:38",
+        "reactions": []
+    },
+    {
+        "id": 23503,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway mo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:36",
+        "reactions": []
+    },
+    {
+        "id": 23502,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "opo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23500,
+        "date": "2026-11-18 13:13:36",
+        "reactions": []
+    },
+    {
+        "id": 23501,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "call ka lang anytime Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:31",
+        "reactions": []
+    },
+    {
+        "id": 23500,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "stooooopppp",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 13:13:30",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    }
+]

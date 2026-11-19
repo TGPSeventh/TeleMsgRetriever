@@ -1,0 +1,59 @@
+[
+    {
+        "id": 24174,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "how?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:56:10",
+        "reactions": []
+    },
+    {
+        "id": 24173,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "so somehow pabor din siya",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:56:05",
+        "reactions": []
+    },
+    {
+        "id": 24172,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "so much Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:56:03",
+        "reactions": []
+    },
+    {
+        "id": 24171,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "no worries po. I’m gonna miss this also",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:55:53",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    }
+]

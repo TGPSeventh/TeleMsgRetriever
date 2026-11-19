@@ -1,0 +1,67 @@
+[
+    {
+        "id": 23017,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Ako sa magpakalayo layo ka then figure everything out",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23015,
+        "date": "2026-11-17 11:47:18",
+        "reactions": []
+    },
+    {
+        "id": 23016,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "alam mo ba",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:47:04",
+        "reactions": []
+    },
+    {
+        "id": 23015,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "whyyy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23014,
+        "date": "2026-11-17 11:46:59",
+        "reactions": []
+    },
+    {
+        "id": 23014,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Yaw ko rin Jo hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:46:50",
+        "reactions": []
+    },
+    {
+        "id": 23013,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hinihila ako sa A",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 11:46:47",
+        "reactions": []
+    }
+]

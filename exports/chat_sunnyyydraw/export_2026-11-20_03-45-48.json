@@ -1,0 +1,64 @@
+[
+    {
+        "id": 24340,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:37",
+        "reactions": []
+    },
+    {
+        "id": 24339,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "don’t worry",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:29",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24338,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "u did good",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:26",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24337,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "pasaway",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:45:17",
+        "reactions": []
+    }
+]

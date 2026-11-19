@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23325,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "vivisit naman us here pag gusto mo don't worry.",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:43:32",
+        "reactions": []
+    },
+    {
+        "id": 23324,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "baka ibigay ko na yung tahimik and quiet life mo sa probinsya",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:43:11",
+        "reactions": []
+    }
+]

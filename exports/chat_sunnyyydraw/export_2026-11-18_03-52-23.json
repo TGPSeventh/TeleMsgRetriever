@@ -1,0 +1,80 @@
+[
+    {
+        "id": 23358,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "wow natandaan niya",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23357,
+        "date": "2026-11-17 19:52:17",
+        "reactions": []
+    },
+    {
+        "id": 23357,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "na mention mo yan nga",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:52:09",
+        "reactions": []
+    },
+    {
+        "id": 23356,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kasi aalis bukas ang baby ko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:52:03",
+        "reactions": []
+    },
+    {
+        "id": 23355,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yun rin naisip ko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:52:02",
+        "reactions": []
+    },
+    {
+        "id": 23354,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "susunduin me",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:51:54",
+        "reactions": []
+    },
+    {
+        "id": 23353,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 19:51:54",
+        "reactions": []
+    }
+]

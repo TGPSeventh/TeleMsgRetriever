@@ -1,0 +1,28 @@
+[
+    {
+        "id": 22785,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "tadaaaaa",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:33:33",
+        "reactions": []
+    },
+    {
+        "id": 22784,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "",
+        "media_path": "media/photo_2026-11-16_13-33-27.jpg",
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:33:27",
+        "reactions": []
+    }
+]

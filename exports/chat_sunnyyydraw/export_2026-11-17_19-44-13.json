@@ -1,0 +1,46 @@
+[
+    {
+        "id": 22997,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "trueee sarap",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22995,
+        "date": "2026-11-17 11:44:02",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22996,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Sige off nalang po haha wag ka muna alis please haha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22994,
+        "date": "2026-11-17 11:44:01",
+        "reactions": []
+    },
+    {
+        "id": 22995,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Parang ok mag sleep dun sa dulo na part no? hahaha\nParang may lounge",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22992,
+        "date": "2026-11-17 11:43:44",
+        "reactions": []
+    }
+]

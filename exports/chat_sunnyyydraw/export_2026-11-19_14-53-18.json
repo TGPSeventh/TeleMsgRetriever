@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23916,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "mag book na me po?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:53:05",
+        "reactions": []
+    },
+    {
+        "id": 23915,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "here po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:52:56",
+        "reactions": []
+    },
+    {
+        "id": 23914,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Track my current Move It ride in 412WLY! See my route, expected time of arrival, and more at https://s.moveit.com.ph/ride/RiQQcGStzSabeIrTReKd",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:52:50",
+        "reactions": []
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": 23424,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "buti pala ako kumuha phone ko",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 11:29:03",
+        "reactions": []
+    },
+    {
+        "id": 23423,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "byeee hhaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-18 11:28:45",
+        "reactions": []
+    }
+]

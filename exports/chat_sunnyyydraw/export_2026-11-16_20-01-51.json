@@ -1,0 +1,59 @@
+[
+    {
+        "id": 22773,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "sowwwyyy",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22771,
+        "date": "2026-11-16 12:01:41",
+        "reactions": []
+    },
+    {
+        "id": 22772,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "ayaw",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22770,
+        "date": "2026-11-16 12:01:35",
+        "reactions": []
+    },
+    {
+        "id": 22771,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "sinamahan na release, want pa sama ligo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 22766,
+        "date": "2026-11-16 12:01:28",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22770,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "or baka naman need mo ng pahinga Jo, itulog mo na",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 12:01:24",
+        "reactions": []
+    }
+]

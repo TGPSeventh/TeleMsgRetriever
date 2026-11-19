@@ -1,0 +1,85 @@
+[
+    {
+        "id": 23400,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Mahal na mahal kita Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23398,
+        "date": "2026-11-17 20:27:15",
+        "reactions": []
+    },
+    {
+        "id": 23399,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "go na po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:27:13",
+        "reactions": []
+    },
+    {
+        "id": 23398,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "dahil mahal kita",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 23396,
+        "date": "2026-11-17 20:27:05",
+        "reactions": [
+            {
+                "reaction": "❤",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23397,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ano yan Jooo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:27:02",
+        "reactions": []
+    },
+    {
+        "id": 23396,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "laging ingatan and alagaan yung sarili",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:26:56",
+        "reactions": []
+    },
+    {
+        "id": 23395,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Thank you Jooooo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 20:26:52",
+        "reactions": []
+    }
+]

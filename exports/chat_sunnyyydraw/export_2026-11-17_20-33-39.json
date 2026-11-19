@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23194,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Gusto ko si Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:33:27",
+        "reactions": []
+    },
+    {
+        "id": 23193,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "Yaw ko saging",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:33:18",
+        "reactions": []
+    },
+    {
+        "id": 23192,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "para di umiyak",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-17 12:33:07",
+        "reactions": []
+    }
+]

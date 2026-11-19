@@ -1,0 +1,80 @@
+[
+    {
+        "id": 23901,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "huwag na u lumabas ha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:51",
+        "reactions": []
+    },
+    {
+        "id": 23900,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "waiting ako sayo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:50",
+        "reactions": []
+    },
+    {
+        "id": 23899,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "or kapag lapit na ako?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:45",
+        "reactions": []
+    },
+    {
+        "id": 23898,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "not yet",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:41",
+        "reactions": []
+    },
+    {
+        "id": 23897,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "nag check in na u?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:36",
+        "reactions": []
+    },
+    {
+        "id": 23896,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "okieee",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:43:26",
+        "reactions": []
+    }
+]

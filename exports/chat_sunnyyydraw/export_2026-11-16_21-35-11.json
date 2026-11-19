@@ -1,0 +1,98 @@
+[
+    {
+        "id": 22796,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "what're you doing po?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:35:10",
+        "reactions": []
+    },
+    {
+        "id": 22795,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "hahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:35:05",
+        "reactions": []
+    },
+    {
+        "id": 22794,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:35:01",
+        "reactions": []
+    },
+    {
+        "id": 22793,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "kainis",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:35:00",
+        "reactions": [
+            {
+                "reaction": "🤣",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22792,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "yan para no miscomms",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:35:00",
+        "reactions": []
+    },
+    {
+        "id": 22791,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "thank you for complimenting my soup",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:34:52",
+        "reactions": []
+    },
+    {
+        "id": 22790,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "I know, hahaha yes po",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-16 13:34:40",
+        "reactions": []
+    }
+]

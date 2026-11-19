@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24088,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "gawa neto Jo",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24084,
+        "date": "2026-11-19 11:24:18",
+        "reactions": []
+    },
+    {
+        "id": 24087,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why bigla nag ask",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:24:11",
+        "reactions": []
+    },
+    {
+        "id": 24086,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "why?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 11:24:03",
+        "reactions": []
+    }
+]

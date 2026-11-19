@@ -1,0 +1,41 @@
+[
+    {
+        "id": 23881,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "starbucks bi ha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:38:25",
+        "reactions": []
+    },
+    {
+        "id": 23880,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "pero tama ano?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:38:23",
+        "reactions": []
+    },
+    {
+        "id": 23879,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "",
+        "media_path": "media/photo_2026-11-19_06-38-19.jpg",
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 06:38:19",
+        "reactions": []
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24211,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "yan sinasabi mo simula kagabi",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:06:02",
+        "reactions": []
+    },
+    {
+        "id": 24210,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "ikaw po ang namimiss",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:06:01",
+        "reactions": []
+    },
+    {
+        "id": 24209,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "miss mo na agad no",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:05:50",
+        "reactions": []
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24222,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "hahahaha",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:08:09",
+        "reactions": []
+    },
+    {
+        "id": 24221,
+        "sender_id": 5416574241,
+        "sender_name": "Sun",
+        "text": "Gen Pat ang kulit",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": 24220,
+        "date": "2026-11-19 19:08:06",
+        "reactions": []
+    },
+    {
+        "id": 24220,
+        "sender_id": 1769156603,
+        "sender_name": "Seventh",
+        "text": "palate ka ng onti kaya?",
+        "media_path": null,
+        "is_sticker": false,
+        "is_voice": false,
+        "call_info": null,
+        "reply_to_message_id": null,
+        "date": "2026-11-19 19:07:43",
+        "reactions": []
+    }
+]
